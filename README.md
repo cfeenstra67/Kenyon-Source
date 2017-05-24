@@ -1,0 +1,2 @@
+# Kenyon-Source
+This is the iOS application I originally wrote last summer for students of Kenyon College (where I just graduated from).  I used this application as a way to learn Objective C and iOS development primarily, so I would imagine there are many pieces of code that could be improved if I had the inclination.  This app can be found on the iTunes Store at this URL: https://itunes.apple.com/au/app/kenyon-source/id1135239132?mt=8.
