@@ -1,0 +1,6 @@
+framework module Pods_Kenyon_Source {
+  umbrella header "Pods-Kenyon-Source-umbrella.h"
+
+  export *
+  module * { export * }
+}
