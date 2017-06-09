@@ -306,7 +306,6 @@
     }
     else if([[segue identifier] isEqualToString:@"segueToComments"])
     {
-        NSLog(@"selected row: %ld",selectedRow);
         wallPost *temp=posts[selectedRow];
         commentsViewController *dest=(commentsViewController*)[segue destinationViewController];
         dest.originPost=temp;

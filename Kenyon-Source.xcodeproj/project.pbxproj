@@ -9,120 +9,117 @@
 /* Begin PBXBuildFile section */
 		07BA2D61DDF8D17BF2AE38AA /* libPods-KenyonMobile v0.0Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A086FB19ACF4AA86529D9738 /* libPods-KenyonMobile v0.0Tests.a */; };
 		1603B59BDC59A2EFF65FB47C /* Pods_Kenyon_Source.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43862264A3F78A148BD2EF4C /* Pods_Kenyon_Source.framework */; };
-		32015BAD1D39BDEA0022513E /* refresh2.png in Resources */ = {isa = PBXBuildFile; fileRef = 32015BAC1D39BDEA0022513E /* refresh2.png */; };
 		32015BAF1D39CFB80022513E /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32015BAE1D39CFB80022513E /* SystemConfiguration.framework */; };
 		32015BB31D3AD0BE0022513E /* Icons.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32015BB21D3AD0BE0022513E /* Icons.xcassets */; };
-		32015BB51D3AE7F20022513E /* iconbig.png in Resources */ = {isa = PBXBuildFile; fileRef = 32015BB41D3AE7F20022513E /* iconbig.png */; };
-		3203DB761D2F5CA100CFBAAE /* sportSelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3203DB751D2F5CA100CFBAAE /* sportSelectionViewController.m */; };
-		320501021D172E3600949795 /* buildingAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 320501011D172E3600949795 /* buildingAnnotation.m */; };
-		3215B65B1D385ECE00CDC9EA /* eventSettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3215B65A1D385ECE00CDC9EA /* eventSettingsViewController.m */; };
 		322C3BD71D0258EF004CCD11 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 322C3BD61D0258EF004CCD11 /* Main.storyboard */; };
-		3234982F1E4322B0000148DF /* wallPostTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3234982E1E4322B0000148DF /* wallPostTableViewCell.m */; };
-		323498321E432E6F000148DF /* commentsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 323498311E432E6F000148DF /* commentsViewController.m */; };
-		323498351E43D095000148DF /* wallPostComment.m in Sources */ = {isa = PBXBuildFile; fileRef = 323498341E43D095000148DF /* wallPostComment.m */; };
-		323498381E4451FB000148DF /* commonUseFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 323498371E4451FB000148DF /* commonUseFunctions.m */; };
-		3234983B1E4492C5000148DF /* segmentedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3234983A1E4492C4000148DF /* segmentedLabel.m */; };
-		323498401E44EB8A000148DF /* userRecordID.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3234983F1E44EB8A000148DF /* userRecordID.txt */; };
-		323498431E44EBEF000148DF /* recordIDManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 323498421E44EBEF000148DF /* recordIDManager.m */; };
 		323498451E453FA3000148DF /* EventKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 323498441E453FA2000148DF /* EventKit.framework */; };
-		32736B091DC0A5A000A6F24A /* AA.StudentEnterprises.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AD61DC0A5A000A6F24A /* AA.StudentEnterprises.txt */; };
-		32736B0A1DC0A5A000A6F24A /* Applicability.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AD71DC0A5A000A6F24A /* Applicability.txt */; };
-		32736B0B1DC0A5A000A6F24A /* B.Non-SexualAssault.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AD81DC0A5A000A6F24A /* B.Non-SexualAssault.txt */; };
-		32736B0C1DC0A5A000A6F24A /* BB.Theft.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AD91DC0A5A000A6F24A /* BB.Theft.txt */; };
-		32736B0D1DC0A5A000A6F24A /* C.Banners,flyers,andposters.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736ADA1DC0A5A000A6F24A /* C.Banners,flyers,andposters.txt */; };
-		32736B0E1DC0A5A000A6F24A /* CC.Weapons.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736ADB1DC0A5A000A6F24A /* CC.Weapons.txt */; };
-		32736B0F1DC0A5A000A6F24A /* ChangestoStudentRegulations.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736ADC1DC0A5A000A6F24A /* ChangestoStudentRegulations.txt */; };
-		32736B101DC0A5A000A6F24A /* D.BicycleRegistrationandRegulations.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736ADD1DC0A5A000A6F24A /* D.BicycleRegistrationandRegulations.txt */; };
-		32736B111DC0A5A000A6F24A /* DD.Weapons.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736ADE1DC0A5A000A6F24A /* DD.Weapons.txt */; };
-		32736B121DC0A5A000A6F24A /* E.BrownFamilyEnvironmentalCenter.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736ADF1DC0A5A000A6F24A /* E.BrownFamilyEnvironmentalCenter.txt */; };
-		32736B131DC0A5A000A6F24A /* F.Computers,EmailandSocialMedia.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AE01DC0A5A000A6F24A /* F.Computers,EmailandSocialMedia.txt */; };
-		32736B141DC0A5A000A6F24A /* FinancialArrangements.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AE11DC0A5A000A6F24A /* FinancialArrangements.txt */; };
-		32736B151DC0A5A000A6F24A /* G.Conduct.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AE21DC0A5A000A6F24A /* G.Conduct.txt */; };
-		32736B161DC0A5A000A6F24A /* H.Damage.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AE31DC0A5A000A6F24A /* H.Damage.txt */; };
-		32736B171DC0A5A000A6F24A /* I.DemonstrationsandProtests.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AE41DC0A5A000A6F24A /* I.DemonstrationsandProtests.txt */; };
-		32736B181DC0A5A000A6F24A /* InformalHearing.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AE51DC0A5A000A6F24A /* InformalHearing.txt */; };
-		32736B191DC0A5A000A6F24A /* Introduction.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AE61DC0A5A000A6F24A /* Introduction.txt */; };
-		32736B1A1DC0A5A000A6F24A /* J.DiscriminatoryHarassment.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AE71DC0A5A000A6F24A /* J.DiscriminatoryHarassment.txt */; };
-		32736B1B1DC0A5A000A6F24A /* K.Drugs.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AE81DC0A5A000A6F24A /* K.Drugs.txt */; };
-		32736B1C1DC0A5A000A6F24A /* L.EndangeringBehavior.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AE91DC0A5A000A6F24A /* L.EndangeringBehavior.txt */; };
-		32736B1D1DC0A5A000A6F24A /* M.FailuretoComply.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AEA1DC0A5A000A6F24A /* M.FailuretoComply.txt */; };
-		32736B1E1DC0A5A000A6F24A /* MandatoryWithdrawal.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AEB1DC0A5A000A6F24A /* MandatoryWithdrawal.txt */; };
-		32736B1F1DC0A5A000A6F24A /* MedicalLeaves.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AEC1DC0A5A000A6F24A /* MedicalLeaves.txt */; };
-		32736B201DC0A5A000A6F24A /* N.FireSafety.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AED1DC0A5A000A6F24A /* N.FireSafety.txt */; };
-		32736B211DC0A5A000A6F24A /* Non-DiscriminationStatement.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AEE1DC0A5A000A6F24A /* Non-DiscriminationStatement.txt */; };
-		32736B221DC0A5A000A6F24A /* O.Hazing.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AEF1DC0A5A000A6F24A /* O.Hazing.txt */; };
-		32736B231DC0A5A000A6F24A /* P.Honesty.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AF01DC0A5A000A6F24A /* P.Honesty.txt */; };
-		32736B241DC0A5A000A6F24A /* PersonalLeaves.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AF11DC0A5A000A6F24A /* PersonalLeaves.txt */; };
-		32736B251DC0A5A000A6F24A /* ProcessforMandatoryWithdrawal.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AF21DC0A5A000A6F24A /* ProcessforMandatoryWithdrawal.txt */; };
-		32736B261DC0A5A000A6F24A /* Q.HousingandResidentialLife.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AF31DC0A5A000A6F24A /* Q.HousingandResidentialLife.txt */; };
-		32736B271DC0A5A000A6F24A /* R.CollegeIssuedIdentificationCards.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AF41DC0A5A000A6F24A /* R.CollegeIssuedIdentificationCards.txt */; };
-		32736B281DC0A5A000A6F24A /* ReturnfromaMandatoryWithdrawal.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AF51DC0A5A000A6F24A /* ReturnfromaMandatoryWithdrawal.txt */; };
-		32736B291DC0A5A000A6F24A /* S.MotorVehicles.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AF61DC0A5A000A6F24A /* S.MotorVehicles.txt */; };
-		32736B2A1DC0A5A000A6F24A /* Section1.TermsUsedintheStudentConductReviewSystem.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AF71DC0A5A000A6F24A /* Section1.TermsUsedintheStudentConductReviewSystem.txt */; };
-		32736B2B1DC0A5A000A6F24A /* Section2.MembershipoftheStudentConductReviewBoard.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AF81DC0A5A000A6F24A /* Section2.MembershipoftheStudentConductReviewBoard.txt */; };
-		32736B2C1DC0A5A000A6F24A /* Section3.InitialProceduresfortheResolutionofConductMatters.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AF91DC0A5A000A6F24A /* Section3.InitialProceduresfortheResolutionofConductMatters.txt */; };
-		32736B2D1DC0A5A000A6F24A /* Section4.PowersandDutiesoftheStudentConductReviewBoard.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AFA1DC0A5A000A6F24A /* Section4.PowersandDutiesoftheStudentConductReviewBoard.txt */; };
-		32736B2E1DC0A5A000A6F24A /* Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AFB1DC0A5A000A6F24A /* Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt */; };
-		32736B2F1DC0A5A000A6F24A /* Section6.StudentConductReviewBoardProcedures.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AFC1DC0A5A000A6F24A /* Section6.StudentConductReviewBoardProcedures.txt */; };
-		32736B301DC0A5A000A6F24A /* StudentRightsandResponsibilities.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AFD1DC0A5A000A6F24A /* StudentRightsandResponsibilities.txt */; };
-		32736B311DC0A5A000A6F24A /* T.OrganizationsNotAffiliatedwiththeCollege.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AFE1DC0A5A000A6F24A /* T.OrganizationsNotAffiliatedwiththeCollege.txt */; };
-		32736B321DC0A5A000A6F24A /* TheGoodSamaritanPolicy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736AFF1DC0A5A000A6F24A /* TheGoodSamaritanPolicy.txt */; };
-		32736B331DC0A5A000A6F24A /* TheStudentConductProcess.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736B001DC0A5A000A6F24A /* TheStudentConductProcess.txt */; };
-		32736B341DC0A5A000A6F24A /* U.UnauthorizedAccess.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736B011DC0A5A000A6F24A /* U.UnauthorizedAccess.txt */; };
-		32736B351DC0A5A000A6F24A /* V.SeniorWeek.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736B021DC0A5A000A6F24A /* V.SeniorWeek.txt */; };
-		32736B361DC0A5A000A6F24A /* W.SexualandGender-BasedDiscrimination.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736B031DC0A5A000A6F24A /* W.SexualandGender-BasedDiscrimination.txt */; };
-		32736B371DC0A5A000A6F24A /* WithdrawalfromtheCollege.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736B041DC0A5A000A6F24A /* WithdrawalfromtheCollege.txt */; };
-		32736B381DC0A5A000A6F24A /* WithdrawingfromtheCollege.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736B051DC0A5A000A6F24A /* WithdrawingfromtheCollege.txt */; };
-		32736B391DC0A5A000A6F24A /* X.Smoking.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736B061DC0A5A000A6F24A /* X.Smoking.txt */; };
-		32736B3A1DC0A5A000A6F24A /* Y.SocialEvents.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736B071DC0A5A000A6F24A /* Y.SocialEvents.txt */; };
-		32736B3B1DC0A5A000A6F24A /* Z.StudentEngagement.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736B081DC0A5A000A6F24A /* Z.StudentEngagement.txt */; };
-		32736B411DC0B0A300A6F24A /* A.AlcoholicBeverages.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32736B401DC0B0A300A6F24A /* A.AlcoholicBeverages.txt */; };
-		32736B451DC0B67E00A6F24A /* circle2.png in Resources */ = {isa = PBXBuildFile; fileRef = 32736B441DC0B67E00A6F24A /* circle2.png */; };
-		3279C06D1D2A3D1B00373DE3 /* mapcenter2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3279C06C1D2A3D1B00373DE3 /* mapcenter2.png */; };
-		3279C0751D2A44AA00373DE3 /* pin2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3279C0741D2A44AA00373DE3 /* pin2.png */; };
-		3279C0771D2A509800373DE3 /* maptrash.png in Resources */ = {isa = PBXBuildFile; fileRef = 3279C0761D2A509800373DE3 /* maptrash.png */; };
-		3279C0791D2A603A00373DE3 /* mapcompass.png in Resources */ = {isa = PBXBuildFile; fileRef = 3279C0781D2A603A00373DE3 /* mapcompass.png */; };
-		327BFAAD1E40492B00CF07AE /* composeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 327BFAAC1E40492B00CF07AE /* composeViewController.m */; };
-		327BFAB11E40745400CF07AE /* new.png in Resources */ = {isa = PBXBuildFile; fileRef = 327BFAB01E40745400CF07AE /* new.png */; };
-		327BFAB31E40FF7900CF07AE /* Untitled-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 327BFAB21E40FF7900CF07AE /* Untitled-3.png */; };
-		328A8F331D30937900224047 /* eventsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 328A8F321D30937900224047 /* eventsViewController.m */; };
-		328A8F371D30B19D00224047 /* eventTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 328A8F361D30B19D00224047 /* eventTableViewCell.m */; };
-		328BDD961E3FE81E00A682B0 /* assynchronousImagePlacer.m in Sources */ = {isa = PBXBuildFile; fileRef = 328BDD951E3FE81E00A682B0 /* assynchronousImagePlacer.m */; };
-		328BDD991E3FE97900A682B0 /* CLFURLRequestDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 328BDD981E3FE97900A682B0 /* CLFURLRequestDelegate.m */; };
-		3290A6D11E4928B800042C26 /* dynamicStackView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290A6D01E4928B800042C26 /* dynamicStackView.m */; };
-		32976D211D2DC4A900696E6C /* athleticsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32976D1F1D2DC4A900696E6C /* athleticsViewController.m */; };
-		32976D601D2DF1E900696E6C /* gameTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 32976D5E1D2DF1E900696E6C /* gameTableViewCell.m */; };
-		329EF20E1D15CCDC0073CC3A /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 329EF20D1D15CCDC0073CC3A /* MapViewController.m */; };
+		3290BD5F1EEA72340093E63A /* backButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD501EEA72340093E63A /* backButton.png */; };
+		3290BD601EEA72340093E63A /* circle2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD511EEA72340093E63A /* circle2.png */; };
+		3290BD611EEA72340093E63A /* iconbig.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD521EEA72340093E63A /* iconbig.png */; };
+		3290BD621EEA72340093E63A /* mapcenter2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD531EEA72340093E63A /* mapcenter2.png */; };
+		3290BD631EEA72340093E63A /* mapcompass.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD541EEA72340093E63A /* mapcompass.png */; };
+		3290BD641EEA72340093E63A /* maptrash.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD551EEA72340093E63A /* maptrash.png */; };
+		3290BD651EEA72340093E63A /* menubar.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD561EEA72340093E63A /* menubar.png */; };
+		3290BD661EEA72340093E63A /* new.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD571EEA72340093E63A /* new.png */; };
+		3290BD671EEA72340093E63A /* pin2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD581EEA72340093E63A /* pin2.png */; };
+		3290BD681EEA72340093E63A /* pin3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD591EEA72340093E63A /* pin3.png */; };
+		3290BD691EEA72340093E63A /* refresh2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD5A1EEA72340093E63A /* refresh2.png */; };
+		3290BD6A1EEA72340093E63A /* search1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD5B1EEA72340093E63A /* search1.png */; };
+		3290BD6B1EEA72340093E63A /* shield2colors.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD5C1EEA72340093E63A /* shield2colors.png */; };
+		3290BD6C1EEA72340093E63A /* Untitled-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD5D1EEA72340093E63A /* Untitled-3.png */; };
+		3290BD6D1EEA72340093E63A /* lightK.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD5E1EEA72340093E63A /* lightK.jpg */; };
+		3290BDA21EEA72980093E63A /* A.AlcoholicBeverages.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD6E1EEA72980093E63A /* A.AlcoholicBeverages.txt */; };
+		3290BDA31EEA72980093E63A /* AA.StudentEnterprises.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD6F1EEA72980093E63A /* AA.StudentEnterprises.txt */; };
+		3290BDA41EEA72980093E63A /* Applicability.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD701EEA72980093E63A /* Applicability.txt */; };
+		3290BDA51EEA72980093E63A /* B.Non-SexualAssault.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD711EEA72980093E63A /* B.Non-SexualAssault.txt */; };
+		3290BDA61EEA72980093E63A /* BB.Theft.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD721EEA72980093E63A /* BB.Theft.txt */; };
+		3290BDA71EEA72980093E63A /* C.Banners,flyers,andposters.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD731EEA72980093E63A /* C.Banners,flyers,andposters.txt */; };
+		3290BDA81EEA72980093E63A /* CC.Weapons.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD741EEA72980093E63A /* CC.Weapons.txt */; };
+		3290BDA91EEA72980093E63A /* ChangestoStudentRegulations.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD751EEA72980093E63A /* ChangestoStudentRegulations.txt */; };
+		3290BDAA1EEA72980093E63A /* D.BicycleRegistrationandRegulations.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD761EEA72980093E63A /* D.BicycleRegistrationandRegulations.txt */; };
+		3290BDAB1EEA72980093E63A /* DD.Weapons.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD771EEA72980093E63A /* DD.Weapons.txt */; };
+		3290BDAC1EEA72980093E63A /* E.BrownFamilyEnvironmentalCenter.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD781EEA72980093E63A /* E.BrownFamilyEnvironmentalCenter.txt */; };
+		3290BDAD1EEA72980093E63A /* F.Computers,EmailandSocialMedia.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD791EEA72980093E63A /* F.Computers,EmailandSocialMedia.txt */; };
+		3290BDAE1EEA72980093E63A /* FinancialArrangements.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD7A1EEA72980093E63A /* FinancialArrangements.txt */; };
+		3290BDAF1EEA72980093E63A /* G.Conduct.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD7B1EEA72980093E63A /* G.Conduct.txt */; };
+		3290BDB01EEA72980093E63A /* H.Damage.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD7C1EEA72980093E63A /* H.Damage.txt */; };
+		3290BDB11EEA72980093E63A /* I.DemonstrationsandProtests.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD7D1EEA72980093E63A /* I.DemonstrationsandProtests.txt */; };
+		3290BDB21EEA72980093E63A /* InformalHearing.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD7E1EEA72980093E63A /* InformalHearing.txt */; };
+		3290BDB31EEA72980093E63A /* Introduction.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD7F1EEA72980093E63A /* Introduction.txt */; };
+		3290BDB41EEA72980093E63A /* J.DiscriminatoryHarassment.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD801EEA72980093E63A /* J.DiscriminatoryHarassment.txt */; };
+		3290BDB51EEA72980093E63A /* K.Drugs.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD811EEA72980093E63A /* K.Drugs.txt */; };
+		3290BDB61EEA72980093E63A /* L.EndangeringBehavior.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD821EEA72980093E63A /* L.EndangeringBehavior.txt */; };
+		3290BDB71EEA72980093E63A /* M.FailuretoComply.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD831EEA72980093E63A /* M.FailuretoComply.txt */; };
+		3290BDB81EEA72980093E63A /* MandatoryWithdrawal.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD841EEA72980093E63A /* MandatoryWithdrawal.txt */; };
+		3290BDB91EEA72980093E63A /* MedicalLeaves.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD851EEA72980093E63A /* MedicalLeaves.txt */; };
+		3290BDBA1EEA72980093E63A /* N.FireSafety.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD861EEA72980093E63A /* N.FireSafety.txt */; };
+		3290BDBB1EEA72980093E63A /* Non-DiscriminationStatement.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD871EEA72980093E63A /* Non-DiscriminationStatement.txt */; };
+		3290BDBC1EEA72980093E63A /* O.Hazing.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD881EEA72980093E63A /* O.Hazing.txt */; };
+		3290BDBD1EEA72980093E63A /* P.Honesty.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD891EEA72980093E63A /* P.Honesty.txt */; };
+		3290BDBE1EEA72980093E63A /* PersonalLeaves.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD8A1EEA72980093E63A /* PersonalLeaves.txt */; };
+		3290BDBF1EEA72980093E63A /* ProcessforMandatoryWithdrawal.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD8B1EEA72980093E63A /* ProcessforMandatoryWithdrawal.txt */; };
+		3290BDC01EEA72980093E63A /* Q.HousingandResidentialLife.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD8C1EEA72980093E63A /* Q.HousingandResidentialLife.txt */; };
+		3290BDC11EEA72980093E63A /* R.CollegeIssuedIdentificationCards.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD8D1EEA72980093E63A /* R.CollegeIssuedIdentificationCards.txt */; };
+		3290BDC21EEA72980093E63A /* ReturnfromaMandatoryWithdrawal.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD8E1EEA72980093E63A /* ReturnfromaMandatoryWithdrawal.txt */; };
+		3290BDC31EEA72980093E63A /* S.MotorVehicles.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD8F1EEA72980093E63A /* S.MotorVehicles.txt */; };
+		3290BDC41EEA72980093E63A /* Section1.TermsUsedintheStudentConductReviewSystem.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD901EEA72980093E63A /* Section1.TermsUsedintheStudentConductReviewSystem.txt */; };
+		3290BDC51EEA72980093E63A /* Section2.MembershipoftheStudentConductReviewBoard.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD911EEA72980093E63A /* Section2.MembershipoftheStudentConductReviewBoard.txt */; };
+		3290BDC61EEA72980093E63A /* Section3.InitialProceduresfortheResolutionofConductMatters.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD921EEA72980093E63A /* Section3.InitialProceduresfortheResolutionofConductMatters.txt */; };
+		3290BDC71EEA72980093E63A /* Section4.PowersandDutiesoftheStudentConductReviewBoard.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD931EEA72980093E63A /* Section4.PowersandDutiesoftheStudentConductReviewBoard.txt */; };
+		3290BDC81EEA72980093E63A /* Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD941EEA72980093E63A /* Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt */; };
+		3290BDC91EEA72980093E63A /* Section6.StudentConductReviewBoardProcedures.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD951EEA72980093E63A /* Section6.StudentConductReviewBoardProcedures.txt */; };
+		3290BDCA1EEA72980093E63A /* StudentRightsandResponsibilities.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD961EEA72980093E63A /* StudentRightsandResponsibilities.txt */; };
+		3290BDCB1EEA72980093E63A /* T.OrganizationsNotAffiliatedwiththeCollege.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD971EEA72980093E63A /* T.OrganizationsNotAffiliatedwiththeCollege.txt */; };
+		3290BDCC1EEA72980093E63A /* TheGoodSamaritanPolicy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD981EEA72980093E63A /* TheGoodSamaritanPolicy.txt */; };
+		3290BDCD1EEA72980093E63A /* TheStudentConductProcess.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD991EEA72980093E63A /* TheStudentConductProcess.txt */; };
+		3290BDCE1EEA72980093E63A /* U.UnauthorizedAccess.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD9A1EEA72980093E63A /* U.UnauthorizedAccess.txt */; };
+		3290BDCF1EEA72980093E63A /* V.SeniorWeek.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD9B1EEA72980093E63A /* V.SeniorWeek.txt */; };
+		3290BDD01EEA72980093E63A /* W.SexualandGender-BasedDiscrimination.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD9C1EEA72980093E63A /* W.SexualandGender-BasedDiscrimination.txt */; };
+		3290BDD11EEA72980093E63A /* WithdrawalfromtheCollege.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD9D1EEA72980093E63A /* WithdrawalfromtheCollege.txt */; };
+		3290BDD21EEA72980093E63A /* WithdrawingfromtheCollege.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD9E1EEA72980093E63A /* WithdrawingfromtheCollege.txt */; };
+		3290BDD31EEA72980093E63A /* X.Smoking.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BD9F1EEA72980093E63A /* X.Smoking.txt */; };
+		3290BDD41EEA72980093E63A /* Y.SocialEvents.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BDA01EEA72980093E63A /* Y.SocialEvents.txt */; };
+		3290BDD51EEA72980093E63A /* Z.StudentEngagement.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BDA11EEA72980093E63A /* Z.StudentEngagement.txt */; };
+		3290BDF81EEA73B20093E63A /* eventDescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BDEF1EEA73B20093E63A /* eventDescriptionViewController.m */; };
+		3290BDF91EEA73B20093E63A /* eventSettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BDF11EEA73B20093E63A /* eventSettingsViewController.m */; };
+		3290BDFA1EEA73B20093E63A /* eventsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BDF31EEA73B20093E63A /* eventsViewController.m */; };
+		3290BDFB1EEA73B20093E63A /* eventTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BDF51EEA73B20093E63A /* eventTableViewCell.m */; };
+		3290BDFC1EEA73B20093E63A /* LTNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BDF71EEA73B20093E63A /* LTNavigationController.m */; };
+		3290BE031EEA740D0093E63A /* athleticsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BDFE1EEA740D0093E63A /* athleticsViewController.m */; };
+		3290BE041EEA740D0093E63A /* gameTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE001EEA740D0093E63A /* gameTableViewCell.m */; };
+		3290BE051EEA740D0093E63A /* sportSelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE021EEA740D0093E63A /* sportSelectionViewController.m */; };
+		3290BE101EEA74760093E63A /* Handbook.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE071EEA74760093E63A /* Handbook.m */; };
+		3290BE111EEA74760093E63A /* handBookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE091EEA74760093E63A /* handBookViewController.m */; };
+		3290BE121EEA74760093E63A /* navInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE0B1EEA74760093E63A /* navInfoViewController.m */; };
+		3290BE131EEA74760093E63A /* searchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE0D1EEA74760093E63A /* searchViewController.m */; };
+		3290BE141EEA74760093E63A /* sectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE0F1EEA74760093E63A /* sectionViewController.m */; };
+		3290BE1B1EEA74F00093E63A /* buildingAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE161EEA74F00093E63A /* buildingAnnotation.m */; };
+		3290BE1C1EEA74F00093E63A /* buildingSelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE181EEA74F00093E63A /* buildingSelectionViewController.m */; };
+		3290BE1D1EEA74F00093E63A /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE1A1EEA74F00093E63A /* MapViewController.m */; };
+		3290BE2B1EEA757D0093E63A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE1F1EEA757D0093E63A /* AppDelegate.m */; };
+		3290BE2C1EEA757D0093E63A /* commonUseFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE211EEA757D0093E63A /* commonUseFunctions.m */; };
+		3290BE2D1EEA757D0093E63A /* FoundationsExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE231EEA757D0093E63A /* FoundationsExtensions.m */; };
+		3290BE2E1EEA757D0093E63A /* localSettings.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE251EEA757D0093E63A /* localSettings.m */; };
+		3290BE2F1EEA757D0093E63A /* recordIDManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE271EEA757D0093E63A /* recordIDManager.m */; };
+		3290BE301EEA757D0093E63A /* userRecordID.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3290BE281EEA757D0093E63A /* userRecordID.txt */; };
+		3290BE311EEA757D0093E63A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290BE2A1EEA757D0093E63A /* ViewController.m */; };
 		329EF2111D15CF450073CC3A /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 329EF2101D15CF450073CC3A /* MapKit.framework */; };
 		329EF2131D15E4010073CC3A /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 329EF2121D15E4010073CC3A /* CoreLocation.framework */; };
-		32A6E21B1ED5F73400AA85DD /* LTNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32A6E21A1ED5F73400AA85DD /* LTNavigationController.m */; };
-		32D437C81E40050E00227E93 /* lightK.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 32D437C71E40050E00227E93 /* lightK.jpg */; };
+		32CB41E71EEA78FE00209BE9 /* commentsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32CB41D81EEA78FE00209BE9 /* commentsViewController.m */; };
+		32CB41E81EEA78FE00209BE9 /* composeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32CB41DA1EEA78FE00209BE9 /* composeViewController.m */; };
+		32CB41E91EEA78FE00209BE9 /* postManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 32CB41DC1EEA78FE00209BE9 /* postManager.m */; };
+		32CB41EA1EEA78FE00209BE9 /* segmentedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 32CB41DE1EEA78FE00209BE9 /* segmentedLabel.m */; };
+		32CB41EB1EEA78FE00209BE9 /* wallPost.m in Sources */ = {isa = PBXBuildFile; fileRef = 32CB41E01EEA78FE00209BE9 /* wallPost.m */; };
+		32CB41EC1EEA78FE00209BE9 /* wallPostComment.m in Sources */ = {isa = PBXBuildFile; fileRef = 32CB41E21EEA78FE00209BE9 /* wallPostComment.m */; };
+		32CB41ED1EEA78FE00209BE9 /* wallPostTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 32CB41E41EEA78FE00209BE9 /* wallPostTableViewCell.m */; };
+		32CB41EE1EEA78FE00209BE9 /* wallViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32CB41E61EEA78FE00209BE9 /* wallViewController.m */; };
 		32D437CA1E40089B00227E93 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 32D437C91E40089B00227E93 /* Settings.bundle */; };
-		32D437CD1E4008D800227E93 /* localSettings.m in Sources */ = {isa = PBXBuildFile; fileRef = 32D437CC1E4008D800227E93 /* localSettings.m */; };
-		32D437D01E401AD400227E93 /* wallViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32D437CF1E401AD400227E93 /* wallViewController.m */; };
-		32D437D41E401E7000227E93 /* postManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 32D437D31E401E7000227E93 /* postManager.m */; };
-		32D437D71E401F1300227E93 /* wallPost.m in Sources */ = {isa = PBXBuildFile; fileRef = 32D437D61E401F1300227E93 /* wallPost.m */; };
 		32E4B5091D2B6C88003B5E88 /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32E4B5081D2B6C88003B5E88 /* CloudKit.framework */; };
-		32EDBCAB1D321121004D94B5 /* eventDescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EDBCAA1D321121004D94B5 /* eventDescriptionViewController.m */; };
-		32EDBCB11D32ED7B004D94B5 /* shield2colors.png in Resources */ = {isa = PBXBuildFile; fileRef = 32EDBCB01D32ED7B004D94B5 /* shield2colors.png */; };
-		32EDBCBB1D336BA4004D94B5 /* search1.png in Resources */ = {isa = PBXBuildFile; fileRef = 32EDBCBA1D336BA4004D94B5 /* search1.png */; };
-		32EDBCBE1D347F7E004D94B5 /* buildingSelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EDBCBD1D347F7E004D94B5 /* buildingSelectionViewController.m */; };
-		32EDBCC41D34ACC1004D94B5 /* searchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EDBCC31D34ACC1004D94B5 /* searchViewController.m */; };
 		32EFAE361CF9597700845CEA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EFAE351CF9597700845CEA /* main.m */; };
-		32EFAE391CF9597700845CEA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EFAE381CF9597700845CEA /* AppDelegate.m */; };
-		32EFAE3C1CF9597700845CEA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EFAE3B1CF9597700845CEA /* ViewController.m */; };
 		32EFAE411CF9597700845CEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32EFAE401CF9597700845CEA /* Assets.xcassets */; };
 		32EFAE441CF9597700845CEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32EFAE421CF9597700845CEA /* LaunchScreen.storyboard */; };
 		32EFAE4F1CF9597800845CEA /* KenyonMobile_v0_0Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EFAE4E1CF9597800845CEA /* KenyonMobile_v0_0Tests.m */; };
 		32EFAE5A1CF9597800845CEA /* KenyonMobile_v0_0UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EFAE591CF9597800845CEA /* KenyonMobile_v0_0UITests.m */; };
-		32EFAE6A1CF9716300845CEA /* Handbook.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EFAE691CF9716300845CEA /* Handbook.m */; };
-		32EFAE721CF9CC7A00845CEA /* handBookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EFAE711CF9CC7A00845CEA /* handBookViewController.m */; };
-		32EFAE861CFBFE6200845CEA /* sectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EFAE851CFBFE6200845CEA /* sectionViewController.m */; };
-		32EFAE881CFD1BE500845CEA /* FoundationsExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EFAE871CFD1BE500845CEA /* FoundationsExtensions.m */; };
-		32EFAE8C1CFD2FA400845CEA /* navInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EFAE8B1CFD2FA400845CEA /* navInfoViewController.m */; };
-		32F7A19F1D2AEEC70066A5BF /* menubar.png in Resources */ = {isa = PBXBuildFile; fileRef = 32F7A19D1D2AEEC70066A5BF /* menubar.png */; };
-		32F7A1A21D2AFBBA0066A5BF /* backButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 32F7A1A11D2AFBBA0066A5BF /* backButton.png */; };
-		32F7A1A41D2B256D0066A5BF /* pin3.png in Resources */ = {isa = PBXBuildFile; fileRef = 32F7A1A31D2B256D0066A5BF /* pin3.png */; };
 		3304FA84F71B3D85F41E14E2 /* libPods-KenyonMobile v0.0UITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 99F6A60EC56238F4289CBB93 /* libPods-KenyonMobile v0.0UITests.a */; };
 		D1F4159E5CDD3633D49C34A0 /* Pods_Kenyon_SourceUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BC9B44E60E48DD960BF3689 /* Pods_Kenyon_SourceUITests.framework */; };
 		D788F89FD23F6E83F659C6A0 /* Pods_Kenyon_SourceTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97F5ECD85241BCEC54A809DB /* Pods_Kenyon_SourceTests.framework */; };
@@ -162,140 +159,147 @@
 		05D575248E81D6EACF4EF023 /* Pods-Kenyon-Source.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kenyon-Source.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Kenyon-Source/Pods-Kenyon-Source.debug.xcconfig"; sourceTree = "<group>"; };
 		1D8EB7605CDD2A48335656F3 /* Pods-Kenyon-Source.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kenyon-Source.release.xcconfig"; path = "Pods/Target Support Files/Pods-Kenyon-Source/Pods-Kenyon-Source.release.xcconfig"; sourceTree = "<group>"; };
 		2BC9B44E60E48DD960BF3689 /* Pods_Kenyon_SourceUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Kenyon_SourceUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		32015BAC1D39BDEA0022513E /* refresh2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = refresh2.png; sourceTree = "<group>"; };
 		32015BAE1D39CFB80022513E /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		32015BB21D3AD0BE0022513E /* Icons.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Icons.xcassets; sourceTree = "<group>"; };
-		32015BB41D3AE7F20022513E /* iconbig.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iconbig.png; path = ../../../../Downloads/iconbig.png; sourceTree = "<group>"; };
-		3203DB741D2F5CA100CFBAAE /* sportSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sportSelectionViewController.h; sourceTree = "<group>"; };
-		3203DB751D2F5CA100CFBAAE /* sportSelectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sportSelectionViewController.m; sourceTree = "<group>"; };
-		320501001D172E3600949795 /* buildingAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = buildingAnnotation.h; sourceTree = "<group>"; };
-		320501011D172E3600949795 /* buildingAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = buildingAnnotation.m; sourceTree = "<group>"; };
 		320501061D24A37400949795 /* KenyonMobile v0.0-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KenyonMobile v0.0-Bridging-Header.h"; sourceTree = "<group>"; };
-		3215B6591D385ECE00CDC9EA /* eventSettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = eventSettingsViewController.h; sourceTree = "<group>"; };
-		3215B65A1D385ECE00CDC9EA /* eventSettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = eventSettingsViewController.m; sourceTree = "<group>"; };
 		322C3BD61D0258EF004CCD11 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		3234982D1E4322B0000148DF /* wallPostTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wallPostTableViewCell.h; sourceTree = "<group>"; };
-		3234982E1E4322B0000148DF /* wallPostTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = wallPostTableViewCell.m; sourceTree = "<group>"; };
-		323498301E432E6F000148DF /* commentsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = commentsViewController.h; sourceTree = "<group>"; };
-		323498311E432E6F000148DF /* commentsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = commentsViewController.m; sourceTree = "<group>"; };
-		323498331E43D095000148DF /* wallPostComment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wallPostComment.h; sourceTree = "<group>"; };
-		323498341E43D095000148DF /* wallPostComment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = wallPostComment.m; sourceTree = "<group>"; };
-		323498361E4451EF000148DF /* commonUseFunctions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = commonUseFunctions.h; sourceTree = "<group>"; };
-		323498371E4451FB000148DF /* commonUseFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = commonUseFunctions.m; sourceTree = "<group>"; };
-		323498391E4492C4000148DF /* segmentedLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = segmentedLabel.h; sourceTree = "<group>"; };
-		3234983A1E4492C4000148DF /* segmentedLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = segmentedLabel.m; sourceTree = "<group>"; };
-		3234983F1E44EB8A000148DF /* userRecordID.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = userRecordID.txt; sourceTree = "<group>"; };
-		323498411E44EBEF000148DF /* recordIDManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = recordIDManager.h; sourceTree = "<group>"; };
-		323498421E44EBEF000148DF /* recordIDManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = recordIDManager.m; sourceTree = "<group>"; };
 		323498441E453FA2000148DF /* EventKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKit.framework; path = System/Library/Frameworks/EventKit.framework; sourceTree = SDKROOT; };
-		32736AD61DC0A5A000A6F24A /* AA.StudentEnterprises.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AA.StudentEnterprises.txt; sourceTree = "<group>"; };
-		32736AD71DC0A5A000A6F24A /* Applicability.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Applicability.txt; sourceTree = "<group>"; };
-		32736AD81DC0A5A000A6F24A /* B.Non-SexualAssault.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "B.Non-SexualAssault.txt"; sourceTree = "<group>"; };
-		32736AD91DC0A5A000A6F24A /* BB.Theft.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BB.Theft.txt; sourceTree = "<group>"; };
-		32736ADA1DC0A5A000A6F24A /* C.Banners,flyers,andposters.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "C.Banners,flyers,andposters.txt"; sourceTree = "<group>"; };
-		32736ADB1DC0A5A000A6F24A /* CC.Weapons.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CC.Weapons.txt; sourceTree = "<group>"; };
-		32736ADC1DC0A5A000A6F24A /* ChangestoStudentRegulations.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ChangestoStudentRegulations.txt; sourceTree = "<group>"; };
-		32736ADD1DC0A5A000A6F24A /* D.BicycleRegistrationandRegulations.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = D.BicycleRegistrationandRegulations.txt; sourceTree = "<group>"; };
-		32736ADE1DC0A5A000A6F24A /* DD.Weapons.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DD.Weapons.txt; sourceTree = "<group>"; };
-		32736ADF1DC0A5A000A6F24A /* E.BrownFamilyEnvironmentalCenter.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = E.BrownFamilyEnvironmentalCenter.txt; sourceTree = "<group>"; };
-		32736AE01DC0A5A000A6F24A /* F.Computers,EmailandSocialMedia.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "F.Computers,EmailandSocialMedia.txt"; sourceTree = "<group>"; };
-		32736AE11DC0A5A000A6F24A /* FinancialArrangements.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FinancialArrangements.txt; sourceTree = "<group>"; };
-		32736AE21DC0A5A000A6F24A /* G.Conduct.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = G.Conduct.txt; sourceTree = "<group>"; };
-		32736AE31DC0A5A000A6F24A /* H.Damage.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = H.Damage.txt; sourceTree = "<group>"; };
-		32736AE41DC0A5A000A6F24A /* I.DemonstrationsandProtests.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = I.DemonstrationsandProtests.txt; sourceTree = "<group>"; };
-		32736AE51DC0A5A000A6F24A /* InformalHearing.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = InformalHearing.txt; sourceTree = "<group>"; };
-		32736AE61DC0A5A000A6F24A /* Introduction.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Introduction.txt; sourceTree = "<group>"; };
-		32736AE71DC0A5A000A6F24A /* J.DiscriminatoryHarassment.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = J.DiscriminatoryHarassment.txt; sourceTree = "<group>"; };
-		32736AE81DC0A5A000A6F24A /* K.Drugs.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = K.Drugs.txt; sourceTree = "<group>"; };
-		32736AE91DC0A5A000A6F24A /* L.EndangeringBehavior.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = L.EndangeringBehavior.txt; sourceTree = "<group>"; };
-		32736AEA1DC0A5A000A6F24A /* M.FailuretoComply.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = M.FailuretoComply.txt; sourceTree = "<group>"; };
-		32736AEB1DC0A5A000A6F24A /* MandatoryWithdrawal.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MandatoryWithdrawal.txt; sourceTree = "<group>"; };
-		32736AEC1DC0A5A000A6F24A /* MedicalLeaves.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MedicalLeaves.txt; sourceTree = "<group>"; };
-		32736AED1DC0A5A000A6F24A /* N.FireSafety.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = N.FireSafety.txt; sourceTree = "<group>"; };
-		32736AEE1DC0A5A000A6F24A /* Non-DiscriminationStatement.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Non-DiscriminationStatement.txt"; sourceTree = "<group>"; };
-		32736AEF1DC0A5A000A6F24A /* O.Hazing.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = O.Hazing.txt; sourceTree = "<group>"; };
-		32736AF01DC0A5A000A6F24A /* P.Honesty.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = P.Honesty.txt; sourceTree = "<group>"; };
-		32736AF11DC0A5A000A6F24A /* PersonalLeaves.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PersonalLeaves.txt; sourceTree = "<group>"; };
-		32736AF21DC0A5A000A6F24A /* ProcessforMandatoryWithdrawal.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ProcessforMandatoryWithdrawal.txt; sourceTree = "<group>"; };
-		32736AF31DC0A5A000A6F24A /* Q.HousingandResidentialLife.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Q.HousingandResidentialLife.txt; sourceTree = "<group>"; };
-		32736AF41DC0A5A000A6F24A /* R.CollegeIssuedIdentificationCards.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = R.CollegeIssuedIdentificationCards.txt; sourceTree = "<group>"; };
-		32736AF51DC0A5A000A6F24A /* ReturnfromaMandatoryWithdrawal.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReturnfromaMandatoryWithdrawal.txt; sourceTree = "<group>"; };
-		32736AF61DC0A5A000A6F24A /* S.MotorVehicles.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S.MotorVehicles.txt; sourceTree = "<group>"; };
-		32736AF71DC0A5A000A6F24A /* Section1.TermsUsedintheStudentConductReviewSystem.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Section1.TermsUsedintheStudentConductReviewSystem.txt; sourceTree = "<group>"; };
-		32736AF81DC0A5A000A6F24A /* Section2.MembershipoftheStudentConductReviewBoard.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Section2.MembershipoftheStudentConductReviewBoard.txt; sourceTree = "<group>"; };
-		32736AF91DC0A5A000A6F24A /* Section3.InitialProceduresfortheResolutionofConductMatters.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Section3.InitialProceduresfortheResolutionofConductMatters.txt; sourceTree = "<group>"; };
-		32736AFA1DC0A5A000A6F24A /* Section4.PowersandDutiesoftheStudentConductReviewBoard.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Section4.PowersandDutiesoftheStudentConductReviewBoard.txt; sourceTree = "<group>"; };
-		32736AFB1DC0A5A000A6F24A /* Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt; sourceTree = "<group>"; };
-		32736AFC1DC0A5A000A6F24A /* Section6.StudentConductReviewBoardProcedures.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Section6.StudentConductReviewBoardProcedures.txt; sourceTree = "<group>"; };
-		32736AFD1DC0A5A000A6F24A /* StudentRightsandResponsibilities.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = StudentRightsandResponsibilities.txt; sourceTree = "<group>"; };
-		32736AFE1DC0A5A000A6F24A /* T.OrganizationsNotAffiliatedwiththeCollege.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = T.OrganizationsNotAffiliatedwiththeCollege.txt; sourceTree = "<group>"; };
-		32736AFF1DC0A5A000A6F24A /* TheGoodSamaritanPolicy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TheGoodSamaritanPolicy.txt; sourceTree = "<group>"; };
-		32736B001DC0A5A000A6F24A /* TheStudentConductProcess.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TheStudentConductProcess.txt; sourceTree = "<group>"; };
-		32736B011DC0A5A000A6F24A /* U.UnauthorizedAccess.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = U.UnauthorizedAccess.txt; sourceTree = "<group>"; };
-		32736B021DC0A5A000A6F24A /* V.SeniorWeek.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = V.SeniorWeek.txt; sourceTree = "<group>"; };
-		32736B031DC0A5A000A6F24A /* W.SexualandGender-BasedDiscrimination.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "W.SexualandGender-BasedDiscrimination.txt"; sourceTree = "<group>"; };
-		32736B041DC0A5A000A6F24A /* WithdrawalfromtheCollege.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WithdrawalfromtheCollege.txt; sourceTree = "<group>"; };
-		32736B051DC0A5A000A6F24A /* WithdrawingfromtheCollege.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WithdrawingfromtheCollege.txt; sourceTree = "<group>"; };
-		32736B061DC0A5A000A6F24A /* X.Smoking.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = X.Smoking.txt; sourceTree = "<group>"; };
-		32736B071DC0A5A000A6F24A /* Y.SocialEvents.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Y.SocialEvents.txt; sourceTree = "<group>"; };
-		32736B081DC0A5A000A6F24A /* Z.StudentEngagement.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Z.StudentEngagement.txt; sourceTree = "<group>"; };
-		32736B401DC0B0A300A6F24A /* A.AlcoholicBeverages.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A.AlcoholicBeverages.txt; sourceTree = "<group>"; };
-		32736B441DC0B67E00A6F24A /* circle2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle2.png; sourceTree = "<group>"; };
-		3279C06C1D2A3D1B00373DE3 /* mapcenter2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mapcenter2.png; sourceTree = "<group>"; };
-		3279C0741D2A44AA00373DE3 /* pin2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin2.png; sourceTree = "<group>"; };
-		3279C0761D2A509800373DE3 /* maptrash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = maptrash.png; sourceTree = "<group>"; };
-		3279C0781D2A603A00373DE3 /* mapcompass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mapcompass.png; sourceTree = "<group>"; };
-		327BFAAB1E40492B00CF07AE /* composeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = composeViewController.h; sourceTree = "<group>"; };
-		327BFAAC1E40492B00CF07AE /* composeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = composeViewController.m; sourceTree = "<group>"; };
-		327BFAB01E40745400CF07AE /* new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = new.png; sourceTree = "<group>"; };
-		327BFAB21E40FF7900CF07AE /* Untitled-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Untitled-3.png"; sourceTree = "<group>"; };
-		328A8F311D30937900224047 /* eventsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = eventsViewController.h; sourceTree = "<group>"; };
-		328A8F321D30937900224047 /* eventsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = eventsViewController.m; sourceTree = "<group>"; };
-		328A8F351D30B19D00224047 /* eventTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = eventTableViewCell.h; sourceTree = "<group>"; };
-		328A8F361D30B19D00224047 /* eventTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = eventTableViewCell.m; sourceTree = "<group>"; };
-		328BDD941E3FE81E00A682B0 /* assynchronousImagePlacer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = assynchronousImagePlacer.h; sourceTree = "<group>"; };
-		328BDD951E3FE81E00A682B0 /* assynchronousImagePlacer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = assynchronousImagePlacer.m; sourceTree = "<group>"; };
-		328BDD971E3FE97900A682B0 /* CLFURLRequestDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLFURLRequestDelegate.h; sourceTree = "<group>"; };
-		328BDD981E3FE97900A682B0 /* CLFURLRequestDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLFURLRequestDelegate.m; sourceTree = "<group>"; };
-		3290A6CF1E4928B800042C26 /* dynamicStackView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dynamicStackView.h; sourceTree = "<group>"; };
-		3290A6D01E4928B800042C26 /* dynamicStackView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = dynamicStackView.m; sourceTree = "<group>"; };
-		32976D1E1D2DC4A900696E6C /* athleticsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = athleticsViewController.h; sourceTree = "<group>"; };
-		32976D1F1D2DC4A900696E6C /* athleticsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = athleticsViewController.m; sourceTree = "<group>"; };
-		32976D5D1D2DF1E900696E6C /* gameTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = gameTableViewCell.h; sourceTree = "<group>"; };
-		32976D5E1D2DF1E900696E6C /* gameTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = gameTableViewCell.m; sourceTree = "<group>"; };
-		329EF20C1D15CCDC0073CC3A /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
-		329EF20D1D15CCDC0073CC3A /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		3290BD501EEA72340093E63A /* backButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = backButton.png; path = Images/backButton.png; sourceTree = "<group>"; };
+		3290BD511EEA72340093E63A /* circle2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = circle2.png; path = Images/circle2.png; sourceTree = "<group>"; };
+		3290BD521EEA72340093E63A /* iconbig.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iconbig.png; path = Images/iconbig.png; sourceTree = "<group>"; };
+		3290BD531EEA72340093E63A /* mapcenter2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mapcenter2.png; path = Images/mapcenter2.png; sourceTree = "<group>"; };
+		3290BD541EEA72340093E63A /* mapcompass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mapcompass.png; path = Images/mapcompass.png; sourceTree = "<group>"; };
+		3290BD551EEA72340093E63A /* maptrash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = maptrash.png; path = Images/maptrash.png; sourceTree = "<group>"; };
+		3290BD561EEA72340093E63A /* menubar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = menubar.png; path = Images/menubar.png; sourceTree = "<group>"; };
+		3290BD571EEA72340093E63A /* new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = new.png; path = Images/new.png; sourceTree = "<group>"; };
+		3290BD581EEA72340093E63A /* pin2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pin2.png; path = Images/pin2.png; sourceTree = "<group>"; };
+		3290BD591EEA72340093E63A /* pin3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pin3.png; path = Images/pin3.png; sourceTree = "<group>"; };
+		3290BD5A1EEA72340093E63A /* refresh2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = refresh2.png; path = Images/refresh2.png; sourceTree = "<group>"; };
+		3290BD5B1EEA72340093E63A /* search1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = search1.png; path = Images/search1.png; sourceTree = "<group>"; };
+		3290BD5C1EEA72340093E63A /* shield2colors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = shield2colors.png; path = Images/shield2colors.png; sourceTree = "<group>"; };
+		3290BD5D1EEA72340093E63A /* Untitled-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Untitled-3.png"; path = "Images/Untitled-3.png"; sourceTree = "<group>"; };
+		3290BD5E1EEA72340093E63A /* lightK.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lightK.jpg; path = Images/lightK.jpg; sourceTree = "<group>"; };
+		3290BD6E1EEA72980093E63A /* A.AlcoholicBeverages.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = A.AlcoholicBeverages.txt; path = "Handbook Text Files/A.AlcoholicBeverages.txt"; sourceTree = "<group>"; };
+		3290BD6F1EEA72980093E63A /* AA.StudentEnterprises.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = AA.StudentEnterprises.txt; path = "Handbook Text Files/AA.StudentEnterprises.txt"; sourceTree = "<group>"; };
+		3290BD701EEA72980093E63A /* Applicability.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Applicability.txt; path = "Handbook Text Files/Applicability.txt"; sourceTree = "<group>"; };
+		3290BD711EEA72980093E63A /* B.Non-SexualAssault.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "B.Non-SexualAssault.txt"; path = "Handbook Text Files/B.Non-SexualAssault.txt"; sourceTree = "<group>"; };
+		3290BD721EEA72980093E63A /* BB.Theft.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = BB.Theft.txt; path = "Handbook Text Files/BB.Theft.txt"; sourceTree = "<group>"; };
+		3290BD731EEA72980093E63A /* C.Banners,flyers,andposters.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "C.Banners,flyers,andposters.txt"; path = "Handbook Text Files/C.Banners,flyers,andposters.txt"; sourceTree = "<group>"; };
+		3290BD741EEA72980093E63A /* CC.Weapons.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = CC.Weapons.txt; path = "Handbook Text Files/CC.Weapons.txt"; sourceTree = "<group>"; };
+		3290BD751EEA72980093E63A /* ChangestoStudentRegulations.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ChangestoStudentRegulations.txt; path = "Handbook Text Files/ChangestoStudentRegulations.txt"; sourceTree = "<group>"; };
+		3290BD761EEA72980093E63A /* D.BicycleRegistrationandRegulations.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = D.BicycleRegistrationandRegulations.txt; path = "Handbook Text Files/D.BicycleRegistrationandRegulations.txt"; sourceTree = "<group>"; };
+		3290BD771EEA72980093E63A /* DD.Weapons.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = DD.Weapons.txt; path = "Handbook Text Files/DD.Weapons.txt"; sourceTree = "<group>"; };
+		3290BD781EEA72980093E63A /* E.BrownFamilyEnvironmentalCenter.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = E.BrownFamilyEnvironmentalCenter.txt; path = "Handbook Text Files/E.BrownFamilyEnvironmentalCenter.txt"; sourceTree = "<group>"; };
+		3290BD791EEA72980093E63A /* F.Computers,EmailandSocialMedia.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "F.Computers,EmailandSocialMedia.txt"; path = "Handbook Text Files/F.Computers,EmailandSocialMedia.txt"; sourceTree = "<group>"; };
+		3290BD7A1EEA72980093E63A /* FinancialArrangements.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = FinancialArrangements.txt; path = "Handbook Text Files/FinancialArrangements.txt"; sourceTree = "<group>"; };
+		3290BD7B1EEA72980093E63A /* G.Conduct.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = G.Conduct.txt; path = "Handbook Text Files/G.Conduct.txt"; sourceTree = "<group>"; };
+		3290BD7C1EEA72980093E63A /* H.Damage.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = H.Damage.txt; path = "Handbook Text Files/H.Damage.txt"; sourceTree = "<group>"; };
+		3290BD7D1EEA72980093E63A /* I.DemonstrationsandProtests.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = I.DemonstrationsandProtests.txt; path = "Handbook Text Files/I.DemonstrationsandProtests.txt"; sourceTree = "<group>"; };
+		3290BD7E1EEA72980093E63A /* InformalHearing.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = InformalHearing.txt; path = "Handbook Text Files/InformalHearing.txt"; sourceTree = "<group>"; };
+		3290BD7F1EEA72980093E63A /* Introduction.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Introduction.txt; path = "Handbook Text Files/Introduction.txt"; sourceTree = "<group>"; };
+		3290BD801EEA72980093E63A /* J.DiscriminatoryHarassment.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = J.DiscriminatoryHarassment.txt; path = "Handbook Text Files/J.DiscriminatoryHarassment.txt"; sourceTree = "<group>"; };
+		3290BD811EEA72980093E63A /* K.Drugs.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = K.Drugs.txt; path = "Handbook Text Files/K.Drugs.txt"; sourceTree = "<group>"; };
+		3290BD821EEA72980093E63A /* L.EndangeringBehavior.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = L.EndangeringBehavior.txt; path = "Handbook Text Files/L.EndangeringBehavior.txt"; sourceTree = "<group>"; };
+		3290BD831EEA72980093E63A /* M.FailuretoComply.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = M.FailuretoComply.txt; path = "Handbook Text Files/M.FailuretoComply.txt"; sourceTree = "<group>"; };
+		3290BD841EEA72980093E63A /* MandatoryWithdrawal.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = MandatoryWithdrawal.txt; path = "Handbook Text Files/MandatoryWithdrawal.txt"; sourceTree = "<group>"; };
+		3290BD851EEA72980093E63A /* MedicalLeaves.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = MedicalLeaves.txt; path = "Handbook Text Files/MedicalLeaves.txt"; sourceTree = "<group>"; };
+		3290BD861EEA72980093E63A /* N.FireSafety.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = N.FireSafety.txt; path = "Handbook Text Files/N.FireSafety.txt"; sourceTree = "<group>"; };
+		3290BD871EEA72980093E63A /* Non-DiscriminationStatement.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Non-DiscriminationStatement.txt"; path = "Handbook Text Files/Non-DiscriminationStatement.txt"; sourceTree = "<group>"; };
+		3290BD881EEA72980093E63A /* O.Hazing.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = O.Hazing.txt; path = "Handbook Text Files/O.Hazing.txt"; sourceTree = "<group>"; };
+		3290BD891EEA72980093E63A /* P.Honesty.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = P.Honesty.txt; path = "Handbook Text Files/P.Honesty.txt"; sourceTree = "<group>"; };
+		3290BD8A1EEA72980093E63A /* PersonalLeaves.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = PersonalLeaves.txt; path = "Handbook Text Files/PersonalLeaves.txt"; sourceTree = "<group>"; };
+		3290BD8B1EEA72980093E63A /* ProcessforMandatoryWithdrawal.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ProcessforMandatoryWithdrawal.txt; path = "Handbook Text Files/ProcessforMandatoryWithdrawal.txt"; sourceTree = "<group>"; };
+		3290BD8C1EEA72980093E63A /* Q.HousingandResidentialLife.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Q.HousingandResidentialLife.txt; path = "Handbook Text Files/Q.HousingandResidentialLife.txt"; sourceTree = "<group>"; };
+		3290BD8D1EEA72980093E63A /* R.CollegeIssuedIdentificationCards.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = R.CollegeIssuedIdentificationCards.txt; path = "Handbook Text Files/R.CollegeIssuedIdentificationCards.txt"; sourceTree = "<group>"; };
+		3290BD8E1EEA72980093E63A /* ReturnfromaMandatoryWithdrawal.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ReturnfromaMandatoryWithdrawal.txt; path = "Handbook Text Files/ReturnfromaMandatoryWithdrawal.txt"; sourceTree = "<group>"; };
+		3290BD8F1EEA72980093E63A /* S.MotorVehicles.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = S.MotorVehicles.txt; path = "Handbook Text Files/S.MotorVehicles.txt"; sourceTree = "<group>"; };
+		3290BD901EEA72980093E63A /* Section1.TermsUsedintheStudentConductReviewSystem.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Section1.TermsUsedintheStudentConductReviewSystem.txt; path = "Handbook Text Files/Section1.TermsUsedintheStudentConductReviewSystem.txt"; sourceTree = "<group>"; };
+		3290BD911EEA72980093E63A /* Section2.MembershipoftheStudentConductReviewBoard.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Section2.MembershipoftheStudentConductReviewBoard.txt; path = "Handbook Text Files/Section2.MembershipoftheStudentConductReviewBoard.txt"; sourceTree = "<group>"; };
+		3290BD921EEA72980093E63A /* Section3.InitialProceduresfortheResolutionofConductMatters.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Section3.InitialProceduresfortheResolutionofConductMatters.txt; path = "Handbook Text Files/Section3.InitialProceduresfortheResolutionofConductMatters.txt"; sourceTree = "<group>"; };
+		3290BD931EEA72980093E63A /* Section4.PowersandDutiesoftheStudentConductReviewBoard.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Section4.PowersandDutiesoftheStudentConductReviewBoard.txt; path = "Handbook Text Files/Section4.PowersandDutiesoftheStudentConductReviewBoard.txt"; sourceTree = "<group>"; };
+		3290BD941EEA72980093E63A /* Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt; path = "Handbook Text Files/Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt"; sourceTree = "<group>"; };
+		3290BD951EEA72980093E63A /* Section6.StudentConductReviewBoardProcedures.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Section6.StudentConductReviewBoardProcedures.txt; path = "Handbook Text Files/Section6.StudentConductReviewBoardProcedures.txt"; sourceTree = "<group>"; };
+		3290BD961EEA72980093E63A /* StudentRightsandResponsibilities.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = StudentRightsandResponsibilities.txt; path = "Handbook Text Files/StudentRightsandResponsibilities.txt"; sourceTree = "<group>"; };
+		3290BD971EEA72980093E63A /* T.OrganizationsNotAffiliatedwiththeCollege.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = T.OrganizationsNotAffiliatedwiththeCollege.txt; path = "Handbook Text Files/T.OrganizationsNotAffiliatedwiththeCollege.txt"; sourceTree = "<group>"; };
+		3290BD981EEA72980093E63A /* TheGoodSamaritanPolicy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = TheGoodSamaritanPolicy.txt; path = "Handbook Text Files/TheGoodSamaritanPolicy.txt"; sourceTree = "<group>"; };
+		3290BD991EEA72980093E63A /* TheStudentConductProcess.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = TheStudentConductProcess.txt; path = "Handbook Text Files/TheStudentConductProcess.txt"; sourceTree = "<group>"; };
+		3290BD9A1EEA72980093E63A /* U.UnauthorizedAccess.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = U.UnauthorizedAccess.txt; path = "Handbook Text Files/U.UnauthorizedAccess.txt"; sourceTree = "<group>"; };
+		3290BD9B1EEA72980093E63A /* V.SeniorWeek.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = V.SeniorWeek.txt; path = "Handbook Text Files/V.SeniorWeek.txt"; sourceTree = "<group>"; };
+		3290BD9C1EEA72980093E63A /* W.SexualandGender-BasedDiscrimination.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "W.SexualandGender-BasedDiscrimination.txt"; path = "Handbook Text Files/W.SexualandGender-BasedDiscrimination.txt"; sourceTree = "<group>"; };
+		3290BD9D1EEA72980093E63A /* WithdrawalfromtheCollege.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = WithdrawalfromtheCollege.txt; path = "Handbook Text Files/WithdrawalfromtheCollege.txt"; sourceTree = "<group>"; };
+		3290BD9E1EEA72980093E63A /* WithdrawingfromtheCollege.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = WithdrawingfromtheCollege.txt; path = "Handbook Text Files/WithdrawingfromtheCollege.txt"; sourceTree = "<group>"; };
+		3290BD9F1EEA72980093E63A /* X.Smoking.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = X.Smoking.txt; path = "Handbook Text Files/X.Smoking.txt"; sourceTree = "<group>"; };
+		3290BDA01EEA72980093E63A /* Y.SocialEvents.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Y.SocialEvents.txt; path = "Handbook Text Files/Y.SocialEvents.txt"; sourceTree = "<group>"; };
+		3290BDA11EEA72980093E63A /* Z.StudentEngagement.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Z.StudentEngagement.txt; path = "Handbook Text Files/Z.StudentEngagement.txt"; sourceTree = "<group>"; };
+		3290BDEE1EEA73B20093E63A /* eventDescriptionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = eventDescriptionViewController.h; path = Events/eventDescriptionViewController.h; sourceTree = "<group>"; };
+		3290BDEF1EEA73B20093E63A /* eventDescriptionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = eventDescriptionViewController.m; path = Events/eventDescriptionViewController.m; sourceTree = "<group>"; };
+		3290BDF01EEA73B20093E63A /* eventSettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = eventSettingsViewController.h; path = Events/eventSettingsViewController.h; sourceTree = "<group>"; };
+		3290BDF11EEA73B20093E63A /* eventSettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = eventSettingsViewController.m; path = Events/eventSettingsViewController.m; sourceTree = "<group>"; };
+		3290BDF21EEA73B20093E63A /* eventsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = eventsViewController.h; path = Events/eventsViewController.h; sourceTree = "<group>"; };
+		3290BDF31EEA73B20093E63A /* eventsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = eventsViewController.m; path = Events/eventsViewController.m; sourceTree = "<group>"; };
+		3290BDF41EEA73B20093E63A /* eventTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = eventTableViewCell.h; path = Events/eventTableViewCell.h; sourceTree = "<group>"; };
+		3290BDF51EEA73B20093E63A /* eventTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = eventTableViewCell.m; path = Events/eventTableViewCell.m; sourceTree = "<group>"; };
+		3290BDF61EEA73B20093E63A /* LTNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LTNavigationController.h; path = Events/LTNavigationController.h; sourceTree = "<group>"; };
+		3290BDF71EEA73B20093E63A /* LTNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LTNavigationController.m; path = Events/LTNavigationController.m; sourceTree = "<group>"; };
+		3290BDFD1EEA740D0093E63A /* athleticsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = athleticsViewController.h; path = Athletics/athleticsViewController.h; sourceTree = "<group>"; };
+		3290BDFE1EEA740D0093E63A /* athleticsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = athleticsViewController.m; path = Athletics/athleticsViewController.m; sourceTree = "<group>"; };
+		3290BDFF1EEA740D0093E63A /* gameTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = gameTableViewCell.h; path = Athletics/gameTableViewCell.h; sourceTree = "<group>"; };
+		3290BE001EEA740D0093E63A /* gameTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = gameTableViewCell.m; path = Athletics/gameTableViewCell.m; sourceTree = "<group>"; };
+		3290BE011EEA740D0093E63A /* sportSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = sportSelectionViewController.h; path = Athletics/sportSelectionViewController.h; sourceTree = "<group>"; };
+		3290BE021EEA740D0093E63A /* sportSelectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = sportSelectionViewController.m; path = Athletics/sportSelectionViewController.m; sourceTree = "<group>"; };
+		3290BE061EEA74760093E63A /* Handbook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Handbook.h; path = Handbook/Handbook.h; sourceTree = "<group>"; };
+		3290BE071EEA74760093E63A /* Handbook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Handbook.m; path = Handbook/Handbook.m; sourceTree = "<group>"; };
+		3290BE081EEA74760093E63A /* handBookViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = handBookViewController.h; path = Handbook/handBookViewController.h; sourceTree = "<group>"; };
+		3290BE091EEA74760093E63A /* handBookViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = handBookViewController.m; path = Handbook/handBookViewController.m; sourceTree = "<group>"; };
+		3290BE0A1EEA74760093E63A /* navInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = navInfoViewController.h; path = Handbook/navInfoViewController.h; sourceTree = "<group>"; };
+		3290BE0B1EEA74760093E63A /* navInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = navInfoViewController.m; path = Handbook/navInfoViewController.m; sourceTree = "<group>"; };
+		3290BE0C1EEA74760093E63A /* searchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = searchViewController.h; path = Handbook/searchViewController.h; sourceTree = "<group>"; };
+		3290BE0D1EEA74760093E63A /* searchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = searchViewController.m; path = Handbook/searchViewController.m; sourceTree = "<group>"; };
+		3290BE0E1EEA74760093E63A /* sectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = sectionViewController.h; path = Handbook/sectionViewController.h; sourceTree = "<group>"; };
+		3290BE0F1EEA74760093E63A /* sectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = sectionViewController.m; path = Handbook/sectionViewController.m; sourceTree = "<group>"; };
+		3290BE151EEA74F00093E63A /* buildingAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = buildingAnnotation.h; path = Map/buildingAnnotation.h; sourceTree = "<group>"; };
+		3290BE161EEA74F00093E63A /* buildingAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = buildingAnnotation.m; path = Map/buildingAnnotation.m; sourceTree = "<group>"; };
+		3290BE171EEA74F00093E63A /* buildingSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = buildingSelectionViewController.h; path = Map/buildingSelectionViewController.h; sourceTree = "<group>"; };
+		3290BE181EEA74F00093E63A /* buildingSelectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = buildingSelectionViewController.m; path = Map/buildingSelectionViewController.m; sourceTree = "<group>"; };
+		3290BE191EEA74F00093E63A /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MapViewController.h; path = Map/MapViewController.h; sourceTree = "<group>"; };
+		3290BE1A1EEA74F00093E63A /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MapViewController.m; path = Map/MapViewController.m; sourceTree = "<group>"; };
+		3290BE1E1EEA757D0093E63A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Misc/AppDelegate.h; sourceTree = "<group>"; };
+		3290BE1F1EEA757D0093E63A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Misc/AppDelegate.m; sourceTree = "<group>"; };
+		3290BE201EEA757D0093E63A /* commonUseFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = commonUseFunctions.h; path = Misc/commonUseFunctions.h; sourceTree = "<group>"; };
+		3290BE211EEA757D0093E63A /* commonUseFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = commonUseFunctions.m; path = Misc/commonUseFunctions.m; sourceTree = "<group>"; };
+		3290BE221EEA757D0093E63A /* FoundationsExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FoundationsExtensions.h; path = Misc/FoundationsExtensions.h; sourceTree = "<group>"; };
+		3290BE231EEA757D0093E63A /* FoundationsExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FoundationsExtensions.m; path = Misc/FoundationsExtensions.m; sourceTree = "<group>"; };
+		3290BE241EEA757D0093E63A /* localSettings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = localSettings.h; path = Misc/localSettings.h; sourceTree = "<group>"; };
+		3290BE251EEA757D0093E63A /* localSettings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = localSettings.m; path = Misc/localSettings.m; sourceTree = "<group>"; };
+		3290BE261EEA757D0093E63A /* recordIDManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = recordIDManager.h; path = Misc/recordIDManager.h; sourceTree = "<group>"; };
+		3290BE271EEA757D0093E63A /* recordIDManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = recordIDManager.m; path = Misc/recordIDManager.m; sourceTree = "<group>"; };
+		3290BE281EEA757D0093E63A /* userRecordID.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = userRecordID.txt; path = Misc/userRecordID.txt; sourceTree = "<group>"; };
+		3290BE291EEA757D0093E63A /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = Misc/ViewController.h; sourceTree = "<group>"; };
+		3290BE2A1EEA757D0093E63A /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = Misc/ViewController.m; sourceTree = "<group>"; };
 		329EF2101D15CF450073CC3A /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		329EF2121D15E4010073CC3A /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
-		32A6E2191ED5F73400AA85DD /* LTNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LTNavigationController.h; sourceTree = "<group>"; };
-		32A6E21A1ED5F73400AA85DD /* LTNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LTNavigationController.m; sourceTree = "<group>"; };
+		32CB41D71EEA78FE00209BE9 /* commentsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = commentsViewController.h; sourceTree = "<group>"; };
+		32CB41D81EEA78FE00209BE9 /* commentsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = commentsViewController.m; sourceTree = "<group>"; };
+		32CB41D91EEA78FE00209BE9 /* composeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = composeViewController.h; sourceTree = "<group>"; };
+		32CB41DA1EEA78FE00209BE9 /* composeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = composeViewController.m; sourceTree = "<group>"; };
+		32CB41DB1EEA78FE00209BE9 /* postManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = postManager.h; sourceTree = "<group>"; };
+		32CB41DC1EEA78FE00209BE9 /* postManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = postManager.m; sourceTree = "<group>"; };
+		32CB41DD1EEA78FE00209BE9 /* segmentedLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = segmentedLabel.h; sourceTree = "<group>"; };
+		32CB41DE1EEA78FE00209BE9 /* segmentedLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = segmentedLabel.m; sourceTree = "<group>"; };
+		32CB41DF1EEA78FE00209BE9 /* wallPost.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wallPost.h; sourceTree = "<group>"; };
+		32CB41E01EEA78FE00209BE9 /* wallPost.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = wallPost.m; sourceTree = "<group>"; };
+		32CB41E11EEA78FE00209BE9 /* wallPostComment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wallPostComment.h; sourceTree = "<group>"; };
+		32CB41E21EEA78FE00209BE9 /* wallPostComment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = wallPostComment.m; sourceTree = "<group>"; };
+		32CB41E31EEA78FE00209BE9 /* wallPostTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wallPostTableViewCell.h; sourceTree = "<group>"; };
+		32CB41E41EEA78FE00209BE9 /* wallPostTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = wallPostTableViewCell.m; sourceTree = "<group>"; };
+		32CB41E51EEA78FE00209BE9 /* wallViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wallViewController.h; sourceTree = "<group>"; };
+		32CB41E61EEA78FE00209BE9 /* wallViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = wallViewController.m; sourceTree = "<group>"; };
 		32D437C51E40045A00227E93 /* libSDWebImage.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libSDWebImage.a; path = "../../../../Library/Developer/Xcode/DerivedData/KenyonMobile_v0.0-eccgcnqcjqrchgbcooibddxkdvvr/Build/Products/Debug-iphoneos/SDWebImage/libSDWebImage.a"; sourceTree = "<group>"; };
-		32D437C71E40050E00227E93 /* lightK.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lightK.jpg; sourceTree = "<group>"; };
 		32D437C91E40089B00227E93 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
-		32D437CB1E4008D800227E93 /* localSettings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = localSettings.h; sourceTree = "<group>"; };
-		32D437CC1E4008D800227E93 /* localSettings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = localSettings.m; sourceTree = "<group>"; };
-		32D437CE1E401AD400227E93 /* wallViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wallViewController.h; sourceTree = "<group>"; };
-		32D437CF1E401AD400227E93 /* wallViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = wallViewController.m; sourceTree = "<group>"; };
-		32D437D21E401E7000227E93 /* postManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = postManager.h; sourceTree = "<group>"; };
-		32D437D31E401E7000227E93 /* postManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = postManager.m; sourceTree = "<group>"; };
-		32D437D51E401F1300227E93 /* wallPost.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wallPost.h; sourceTree = "<group>"; };
-		32D437D61E401F1300227E93 /* wallPost.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = wallPost.m; sourceTree = "<group>"; };
 		32E4B5071D2B6C80003B5E88 /* KenyonMobile v0.0.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "KenyonMobile v0.0.entitlements"; sourceTree = "<group>"; };
 		32E4B5081D2B6C88003B5E88 /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
-		32EDBCA91D321120004D94B5 /* eventDescriptionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = eventDescriptionViewController.h; sourceTree = "<group>"; };
-		32EDBCAA1D321121004D94B5 /* eventDescriptionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = eventDescriptionViewController.m; sourceTree = "<group>"; };
-		32EDBCB01D32ED7B004D94B5 /* shield2colors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shield2colors.png; sourceTree = "<group>"; };
-		32EDBCBA1D336BA4004D94B5 /* search1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search1.png; sourceTree = "<group>"; };
-		32EDBCBC1D347F7E004D94B5 /* buildingSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = buildingSelectionViewController.h; sourceTree = "<group>"; };
-		32EDBCBD1D347F7E004D94B5 /* buildingSelectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = buildingSelectionViewController.m; sourceTree = "<group>"; };
-		32EDBCC21D34ACC1004D94B5 /* searchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = searchViewController.h; sourceTree = "<group>"; };
-		32EDBCC31D34ACC1004D94B5 /* searchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = searchViewController.m; sourceTree = "<group>"; };
 		32EFAE311CF9597700845CEA /* Kenyon-Source.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kenyon-Source.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		32EFAE351CF9597700845CEA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		32EFAE371CF9597700845CEA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		32EFAE381CF9597700845CEA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		32EFAE3A1CF9597700845CEA /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		32EFAE3B1CF9597700845CEA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		32EFAE401CF9597700845CEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		32EFAE431CF9597700845CEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		32EFAE451CF9597700845CEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -305,19 +309,6 @@
 		32EFAE551CF9597800845CEA /* Kenyon-SourceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Kenyon-SourceUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		32EFAE591CF9597800845CEA /* KenyonMobile_v0_0UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KenyonMobile_v0_0UITests.m; sourceTree = "<group>"; };
 		32EFAE5B1CF9597800845CEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		32EFAE691CF9716300845CEA /* Handbook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Handbook.m; sourceTree = "<group>"; };
-		32EFAE6B1CF9716E00845CEA /* Handbook.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Handbook.h; sourceTree = "<group>"; };
-		32EFAE701CF9CC7A00845CEA /* handBookViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = handBookViewController.h; sourceTree = "<group>"; };
-		32EFAE711CF9CC7A00845CEA /* handBookViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = handBookViewController.m; sourceTree = "<group>"; };
-		32EFAE841CFBFE6200845CEA /* sectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sectionViewController.h; sourceTree = "<group>"; };
-		32EFAE851CFBFE6200845CEA /* sectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sectionViewController.m; sourceTree = "<group>"; };
-		32EFAE871CFD1BE500845CEA /* FoundationsExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FoundationsExtensions.m; sourceTree = "<group>"; };
-		32EFAE891CFD1BF700845CEA /* FoundationsExtensions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FoundationsExtensions.h; sourceTree = "<group>"; };
-		32EFAE8A1CFD2FA400845CEA /* navInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = navInfoViewController.h; sourceTree = "<group>"; };
-		32EFAE8B1CFD2FA400845CEA /* navInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = navInfoViewController.m; sourceTree = "<group>"; };
-		32F7A19D1D2AEEC70066A5BF /* menubar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menubar.png; sourceTree = "<group>"; };
-		32F7A1A11D2AFBBA0066A5BF /* backButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backButton.png; sourceTree = "<group>"; };
-		32F7A1A31D2B256D0066A5BF /* pin3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin3.png; sourceTree = "<group>"; };
 		37F7CEB056BE4A7CA4E63B04 /* libPods-KenyonMobile v0.0.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KenyonMobile v0.0.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		432D1179310344F65FEBDC26 /* Pods-Kenyon-SourceTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kenyon-SourceTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Kenyon-SourceTests/Pods-Kenyon-SourceTests.debug.xcconfig"; sourceTree = "<group>"; };
 		43862264A3F78A148BD2EF4C /* Pods_Kenyon_Source.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Kenyon_Source.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -367,67 +358,89 @@
 		328A8F341D30937E00224047 /* Events */ = {
 			isa = PBXGroup;
 			children = (
-				3215B6591D385ECE00CDC9EA /* eventSettingsViewController.h */,
-				3215B65A1D385ECE00CDC9EA /* eventSettingsViewController.m */,
-				328A8F311D30937900224047 /* eventsViewController.h */,
-				328A8F321D30937900224047 /* eventsViewController.m */,
-				32EDBCA91D321120004D94B5 /* eventDescriptionViewController.h */,
-				32EDBCAA1D321121004D94B5 /* eventDescriptionViewController.m */,
-				32A6E2191ED5F73400AA85DD /* LTNavigationController.h */,
-				32A6E21A1ED5F73400AA85DD /* LTNavigationController.m */,
-				328A8F351D30B19D00224047 /* eventTableViewCell.h */,
-				328A8F361D30B19D00224047 /* eventTableViewCell.m */,
+				3290BDEE1EEA73B20093E63A /* eventDescriptionViewController.h */,
+				3290BDEF1EEA73B20093E63A /* eventDescriptionViewController.m */,
+				3290BDF01EEA73B20093E63A /* eventSettingsViewController.h */,
+				3290BDF11EEA73B20093E63A /* eventSettingsViewController.m */,
+				3290BDF21EEA73B20093E63A /* eventsViewController.h */,
+				3290BDF31EEA73B20093E63A /* eventsViewController.m */,
+				3290BDF41EEA73B20093E63A /* eventTableViewCell.h */,
+				3290BDF51EEA73B20093E63A /* eventTableViewCell.m */,
+				3290BDF61EEA73B20093E63A /* LTNavigationController.h */,
+				3290BDF71EEA73B20093E63A /* LTNavigationController.m */,
 			);
 			name = Events;
+			sourceTree = "<group>";
+		};
+		3290BD4F1EEA6F770093E63A /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				3290BD501EEA72340093E63A /* backButton.png */,
+				3290BD511EEA72340093E63A /* circle2.png */,
+				3290BD521EEA72340093E63A /* iconbig.png */,
+				3290BD531EEA72340093E63A /* mapcenter2.png */,
+				3290BD541EEA72340093E63A /* mapcompass.png */,
+				3290BD551EEA72340093E63A /* maptrash.png */,
+				3290BD561EEA72340093E63A /* menubar.png */,
+				3290BD571EEA72340093E63A /* new.png */,
+				3290BD581EEA72340093E63A /* pin2.png */,
+				3290BD591EEA72340093E63A /* pin3.png */,
+				3290BD5A1EEA72340093E63A /* refresh2.png */,
+				3290BD5B1EEA72340093E63A /* search1.png */,
+				3290BD5C1EEA72340093E63A /* shield2colors.png */,
+				3290BD5D1EEA72340093E63A /* Untitled-3.png */,
+				3290BD5E1EEA72340093E63A /* lightK.jpg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 		32976D231D2DD00300696E6C /* Athletics */ = {
 			isa = PBXGroup;
 			children = (
-				32976D5D1D2DF1E900696E6C /* gameTableViewCell.h */,
-				32976D5E1D2DF1E900696E6C /* gameTableViewCell.m */,
-				32976D1E1D2DC4A900696E6C /* athleticsViewController.h */,
-				32976D1F1D2DC4A900696E6C /* athleticsViewController.m */,
-				3203DB741D2F5CA100CFBAAE /* sportSelectionViewController.h */,
-				3203DB751D2F5CA100CFBAAE /* sportSelectionViewController.m */,
+				3290BDFD1EEA740D0093E63A /* athleticsViewController.h */,
+				3290BDFE1EEA740D0093E63A /* athleticsViewController.m */,
+				3290BDFF1EEA740D0093E63A /* gameTableViewCell.h */,
+				3290BE001EEA740D0093E63A /* gameTableViewCell.m */,
+				3290BE011EEA740D0093E63A /* sportSelectionViewController.h */,
+				3290BE021EEA740D0093E63A /* sportSelectionViewController.m */,
 			);
 			name = Athletics;
 			sourceTree = "<group>";
 		};
-		329EF20F1D15CCE30073CC3A /* Map View/Controller */ = {
+		329EF20F1D15CCE30073CC3A /* Map */ = {
 			isa = PBXGroup;
 			children = (
-				329EF20C1D15CCDC0073CC3A /* MapViewController.h */,
-				329EF20D1D15CCDC0073CC3A /* MapViewController.m */,
-				32EDBCBC1D347F7E004D94B5 /* buildingSelectionViewController.h */,
-				32EDBCBD1D347F7E004D94B5 /* buildingSelectionViewController.m */,
-				320501001D172E3600949795 /* buildingAnnotation.h */,
-				320501011D172E3600949795 /* buildingAnnotation.m */,
+				3290BE151EEA74F00093E63A /* buildingAnnotation.h */,
+				3290BE161EEA74F00093E63A /* buildingAnnotation.m */,
+				3290BE171EEA74F00093E63A /* buildingSelectionViewController.h */,
+				3290BE181EEA74F00093E63A /* buildingSelectionViewController.m */,
+				3290BE191EEA74F00093E63A /* MapViewController.h */,
+				3290BE1A1EEA74F00093E63A /* MapViewController.m */,
 			);
-			name = "Map View/Controller";
+			name = Map;
 			sourceTree = "<group>";
 		};
 		32D437D11E401DC300227E93 /* The Wall */ = {
 			isa = PBXGroup;
 			children = (
-				32D437CE1E401AD400227E93 /* wallViewController.h */,
-				32D437CF1E401AD400227E93 /* wallViewController.m */,
-				323498391E4492C4000148DF /* segmentedLabel.h */,
-				3234983A1E4492C4000148DF /* segmentedLabel.m */,
-				3234982D1E4322B0000148DF /* wallPostTableViewCell.h */,
-				3234982E1E4322B0000148DF /* wallPostTableViewCell.m */,
-				327BFAAB1E40492B00CF07AE /* composeViewController.h */,
-				327BFAAC1E40492B00CF07AE /* composeViewController.m */,
-				323498301E432E6F000148DF /* commentsViewController.h */,
-				323498311E432E6F000148DF /* commentsViewController.m */,
-				32D437D21E401E7000227E93 /* postManager.h */,
-				32D437D31E401E7000227E93 /* postManager.m */,
-				32D437D51E401F1300227E93 /* wallPost.h */,
-				32D437D61E401F1300227E93 /* wallPost.m */,
-				323498331E43D095000148DF /* wallPostComment.h */,
-				323498341E43D095000148DF /* wallPostComment.m */,
+				32CB41D71EEA78FE00209BE9 /* commentsViewController.h */,
+				32CB41D81EEA78FE00209BE9 /* commentsViewController.m */,
+				32CB41D91EEA78FE00209BE9 /* composeViewController.h */,
+				32CB41DA1EEA78FE00209BE9 /* composeViewController.m */,
+				32CB41DB1EEA78FE00209BE9 /* postManager.h */,
+				32CB41DC1EEA78FE00209BE9 /* postManager.m */,
+				32CB41DD1EEA78FE00209BE9 /* segmentedLabel.h */,
+				32CB41DE1EEA78FE00209BE9 /* segmentedLabel.m */,
+				32CB41DF1EEA78FE00209BE9 /* wallPost.h */,
+				32CB41E01EEA78FE00209BE9 /* wallPost.m */,
+				32CB41E11EEA78FE00209BE9 /* wallPostComment.h */,
+				32CB41E21EEA78FE00209BE9 /* wallPostComment.m */,
+				32CB41E31EEA78FE00209BE9 /* wallPostTableViewCell.h */,
+				32CB41E41EEA78FE00209BE9 /* wallPostTableViewCell.m */,
+				32CB41E51EEA78FE00209BE9 /* wallViewController.h */,
+				32CB41E61EEA78FE00209BE9 /* wallViewController.m */,
 			);
-			name = "The Wall";
+			path = "The Wall";
 			sourceTree = "<group>";
 		};
 		32EFAE281CF9597700845CEA = {
@@ -440,21 +453,7 @@
 				32EFAE4D1CF9597800845CEA /* KenyonMobile v0.0Tests */,
 				32EFAE581CF9597800845CEA /* KenyonMobile v0.0UITests */,
 				32EFAE321CF9597700845CEA /* Products */,
-				3279C06C1D2A3D1B00373DE3 /* mapcenter2.png */,
-				32736B441DC0B67E00A6F24A /* circle2.png */,
-				3279C0741D2A44AA00373DE3 /* pin2.png */,
-				3279C0761D2A509800373DE3 /* maptrash.png */,
-				3279C0781D2A603A00373DE3 /* mapcompass.png */,
-				32F7A19D1D2AEEC70066A5BF /* menubar.png */,
-				32F7A1A11D2AFBBA0066A5BF /* backButton.png */,
-				32F7A1A31D2B256D0066A5BF /* pin3.png */,
-				32EDBCB01D32ED7B004D94B5 /* shield2colors.png */,
-				32EDBCBA1D336BA4004D94B5 /* search1.png */,
-				32015BAC1D39BDEA0022513E /* refresh2.png */,
-				32015BB41D3AE7F20022513E /* iconbig.png */,
-				32D437C71E40050E00227E93 /* lightK.jpg */,
-				327BFAB01E40745400CF07AE /* new.png */,
-				327BFAB21E40FF7900CF07AE /* Untitled-3.png */,
+				3290BD4F1EEA6F770093E63A /* Images */,
 				32FF42151CFFE99900513CF7 /* Handbook Text Files */,
 				320501061D24A37400949795 /* KenyonMobile v0.0-Bridging-Header.h */,
 				A35FF96613A83DD1E1585D8A /* Frameworks */,
@@ -477,30 +476,24 @@
 			children = (
 				32D437C91E40089B00227E93 /* Settings.bundle */,
 				32E4B5071D2B6C80003B5E88 /* KenyonMobile v0.0.entitlements */,
-				3234983F1E44EB8A000148DF /* userRecordID.txt */,
-				323498411E44EBEF000148DF /* recordIDManager.h */,
-				323498421E44EBEF000148DF /* recordIDManager.m */,
-				32EFAE371CF9597700845CEA /* AppDelegate.h */,
-				32EFAE381CF9597700845CEA /* AppDelegate.m */,
-				32D437CB1E4008D800227E93 /* localSettings.h */,
-				32D437CC1E4008D800227E93 /* localSettings.m */,
-				323498361E4451EF000148DF /* commonUseFunctions.h */,
-				323498371E4451FB000148DF /* commonUseFunctions.m */,
-				32EFAE891CFD1BF700845CEA /* FoundationsExtensions.h */,
-				32EFAE871CFD1BE500845CEA /* FoundationsExtensions.m */,
-				32EFAE3A1CF9597700845CEA /* ViewController.h */,
-				32EFAE3B1CF9597700845CEA /* ViewController.m */,
-				328BDD941E3FE81E00A682B0 /* assynchronousImagePlacer.h */,
-				328BDD951E3FE81E00A682B0 /* assynchronousImagePlacer.m */,
-				328BDD971E3FE97900A682B0 /* CLFURLRequestDelegate.h */,
-				328BDD981E3FE97900A682B0 /* CLFURLRequestDelegate.m */,
-				3290A6CF1E4928B800042C26 /* dynamicStackView.h */,
-				3290A6D01E4928B800042C26 /* dynamicStackView.m */,
+				3290BE1E1EEA757D0093E63A /* AppDelegate.h */,
+				3290BE1F1EEA757D0093E63A /* AppDelegate.m */,
+				3290BE201EEA757D0093E63A /* commonUseFunctions.h */,
+				3290BE211EEA757D0093E63A /* commonUseFunctions.m */,
+				3290BE221EEA757D0093E63A /* FoundationsExtensions.h */,
+				3290BE231EEA757D0093E63A /* FoundationsExtensions.m */,
+				3290BE241EEA757D0093E63A /* localSettings.h */,
+				3290BE251EEA757D0093E63A /* localSettings.m */,
+				3290BE261EEA757D0093E63A /* recordIDManager.h */,
+				3290BE271EEA757D0093E63A /* recordIDManager.m */,
+				3290BE281EEA757D0093E63A /* userRecordID.txt */,
+				3290BE291EEA757D0093E63A /* ViewController.h */,
+				3290BE2A1EEA757D0093E63A /* ViewController.m */,
 				32D437D11E401DC300227E93 /* The Wall */,
 				328A8F341D30937E00224047 /* Events */,
 				32976D231D2DD00300696E6C /* Athletics */,
-				32EFAE781CFA158E00845CEA /* Handbook Model,Controller */,
-				329EF20F1D15CCE30073CC3A /* Map View/Controller */,
+				32EFAE781CFA158E00845CEA /* Handbook */,
+				329EF20F1D15CCE30073CC3A /* Map */,
 				32EFAE401CF9597700845CEA /* Assets.xcassets */,
 				322C3BD61D0258EF004CCD11 /* Main.storyboard */,
 				32EFAE421CF9597700845CEA /* LaunchScreen.storyboard */,
@@ -536,78 +529,78 @@
 			path = "KenyonMobile v0.0UITests";
 			sourceTree = "<group>";
 		};
-		32EFAE781CFA158E00845CEA /* Handbook Model,Controller */ = {
+		32EFAE781CFA158E00845CEA /* Handbook */ = {
 			isa = PBXGroup;
 			children = (
-				32EFAE8A1CFD2FA400845CEA /* navInfoViewController.h */,
-				32EFAE8B1CFD2FA400845CEA /* navInfoViewController.m */,
-				32EFAE6B1CF9716E00845CEA /* Handbook.h */,
-				32EFAE691CF9716300845CEA /* Handbook.m */,
-				32EDBCC21D34ACC1004D94B5 /* searchViewController.h */,
-				32EDBCC31D34ACC1004D94B5 /* searchViewController.m */,
-				32EFAE841CFBFE6200845CEA /* sectionViewController.h */,
-				32EFAE851CFBFE6200845CEA /* sectionViewController.m */,
-				32EFAE701CF9CC7A00845CEA /* handBookViewController.h */,
-				32EFAE711CF9CC7A00845CEA /* handBookViewController.m */,
+				3290BE061EEA74760093E63A /* Handbook.h */,
+				3290BE071EEA74760093E63A /* Handbook.m */,
+				3290BE081EEA74760093E63A /* handBookViewController.h */,
+				3290BE091EEA74760093E63A /* handBookViewController.m */,
+				3290BE0A1EEA74760093E63A /* navInfoViewController.h */,
+				3290BE0B1EEA74760093E63A /* navInfoViewController.m */,
+				3290BE0C1EEA74760093E63A /* searchViewController.h */,
+				3290BE0D1EEA74760093E63A /* searchViewController.m */,
+				3290BE0E1EEA74760093E63A /* sectionViewController.h */,
+				3290BE0F1EEA74760093E63A /* sectionViewController.m */,
 			);
-			name = "Handbook Model,Controller";
+			name = Handbook;
 			sourceTree = "<group>";
 		};
 		32FF42151CFFE99900513CF7 /* Handbook Text Files */ = {
 			isa = PBXGroup;
 			children = (
-				32736B401DC0B0A300A6F24A /* A.AlcoholicBeverages.txt */,
-				32736AD61DC0A5A000A6F24A /* AA.StudentEnterprises.txt */,
-				32736AD71DC0A5A000A6F24A /* Applicability.txt */,
-				32736AD81DC0A5A000A6F24A /* B.Non-SexualAssault.txt */,
-				32736AD91DC0A5A000A6F24A /* BB.Theft.txt */,
-				32736ADA1DC0A5A000A6F24A /* C.Banners,flyers,andposters.txt */,
-				32736ADB1DC0A5A000A6F24A /* CC.Weapons.txt */,
-				32736ADC1DC0A5A000A6F24A /* ChangestoStudentRegulations.txt */,
-				32736ADD1DC0A5A000A6F24A /* D.BicycleRegistrationandRegulations.txt */,
-				32736ADE1DC0A5A000A6F24A /* DD.Weapons.txt */,
-				32736ADF1DC0A5A000A6F24A /* E.BrownFamilyEnvironmentalCenter.txt */,
-				32736AE01DC0A5A000A6F24A /* F.Computers,EmailandSocialMedia.txt */,
-				32736AE11DC0A5A000A6F24A /* FinancialArrangements.txt */,
-				32736AE21DC0A5A000A6F24A /* G.Conduct.txt */,
-				32736AE31DC0A5A000A6F24A /* H.Damage.txt */,
-				32736AE41DC0A5A000A6F24A /* I.DemonstrationsandProtests.txt */,
-				32736AE51DC0A5A000A6F24A /* InformalHearing.txt */,
-				32736AE61DC0A5A000A6F24A /* Introduction.txt */,
-				32736AE71DC0A5A000A6F24A /* J.DiscriminatoryHarassment.txt */,
-				32736AE81DC0A5A000A6F24A /* K.Drugs.txt */,
-				32736AE91DC0A5A000A6F24A /* L.EndangeringBehavior.txt */,
-				32736AEA1DC0A5A000A6F24A /* M.FailuretoComply.txt */,
-				32736AEB1DC0A5A000A6F24A /* MandatoryWithdrawal.txt */,
-				32736AEC1DC0A5A000A6F24A /* MedicalLeaves.txt */,
-				32736AED1DC0A5A000A6F24A /* N.FireSafety.txt */,
-				32736AEE1DC0A5A000A6F24A /* Non-DiscriminationStatement.txt */,
-				32736AEF1DC0A5A000A6F24A /* O.Hazing.txt */,
-				32736AF01DC0A5A000A6F24A /* P.Honesty.txt */,
-				32736AF11DC0A5A000A6F24A /* PersonalLeaves.txt */,
-				32736AF21DC0A5A000A6F24A /* ProcessforMandatoryWithdrawal.txt */,
-				32736AF31DC0A5A000A6F24A /* Q.HousingandResidentialLife.txt */,
-				32736AF41DC0A5A000A6F24A /* R.CollegeIssuedIdentificationCards.txt */,
-				32736AF51DC0A5A000A6F24A /* ReturnfromaMandatoryWithdrawal.txt */,
-				32736AF61DC0A5A000A6F24A /* S.MotorVehicles.txt */,
-				32736AF71DC0A5A000A6F24A /* Section1.TermsUsedintheStudentConductReviewSystem.txt */,
-				32736AF81DC0A5A000A6F24A /* Section2.MembershipoftheStudentConductReviewBoard.txt */,
-				32736AF91DC0A5A000A6F24A /* Section3.InitialProceduresfortheResolutionofConductMatters.txt */,
-				32736AFA1DC0A5A000A6F24A /* Section4.PowersandDutiesoftheStudentConductReviewBoard.txt */,
-				32736AFB1DC0A5A000A6F24A /* Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt */,
-				32736AFC1DC0A5A000A6F24A /* Section6.StudentConductReviewBoardProcedures.txt */,
-				32736AFD1DC0A5A000A6F24A /* StudentRightsandResponsibilities.txt */,
-				32736AFE1DC0A5A000A6F24A /* T.OrganizationsNotAffiliatedwiththeCollege.txt */,
-				32736AFF1DC0A5A000A6F24A /* TheGoodSamaritanPolicy.txt */,
-				32736B001DC0A5A000A6F24A /* TheStudentConductProcess.txt */,
-				32736B011DC0A5A000A6F24A /* U.UnauthorizedAccess.txt */,
-				32736B021DC0A5A000A6F24A /* V.SeniorWeek.txt */,
-				32736B031DC0A5A000A6F24A /* W.SexualandGender-BasedDiscrimination.txt */,
-				32736B041DC0A5A000A6F24A /* WithdrawalfromtheCollege.txt */,
-				32736B051DC0A5A000A6F24A /* WithdrawingfromtheCollege.txt */,
-				32736B061DC0A5A000A6F24A /* X.Smoking.txt */,
-				32736B071DC0A5A000A6F24A /* Y.SocialEvents.txt */,
-				32736B081DC0A5A000A6F24A /* Z.StudentEngagement.txt */,
+				3290BD6E1EEA72980093E63A /* A.AlcoholicBeverages.txt */,
+				3290BD6F1EEA72980093E63A /* AA.StudentEnterprises.txt */,
+				3290BD701EEA72980093E63A /* Applicability.txt */,
+				3290BD711EEA72980093E63A /* B.Non-SexualAssault.txt */,
+				3290BD721EEA72980093E63A /* BB.Theft.txt */,
+				3290BD731EEA72980093E63A /* C.Banners,flyers,andposters.txt */,
+				3290BD741EEA72980093E63A /* CC.Weapons.txt */,
+				3290BD751EEA72980093E63A /* ChangestoStudentRegulations.txt */,
+				3290BD761EEA72980093E63A /* D.BicycleRegistrationandRegulations.txt */,
+				3290BD771EEA72980093E63A /* DD.Weapons.txt */,
+				3290BD781EEA72980093E63A /* E.BrownFamilyEnvironmentalCenter.txt */,
+				3290BD791EEA72980093E63A /* F.Computers,EmailandSocialMedia.txt */,
+				3290BD7A1EEA72980093E63A /* FinancialArrangements.txt */,
+				3290BD7B1EEA72980093E63A /* G.Conduct.txt */,
+				3290BD7C1EEA72980093E63A /* H.Damage.txt */,
+				3290BD7D1EEA72980093E63A /* I.DemonstrationsandProtests.txt */,
+				3290BD7E1EEA72980093E63A /* InformalHearing.txt */,
+				3290BD7F1EEA72980093E63A /* Introduction.txt */,
+				3290BD801EEA72980093E63A /* J.DiscriminatoryHarassment.txt */,
+				3290BD811EEA72980093E63A /* K.Drugs.txt */,
+				3290BD821EEA72980093E63A /* L.EndangeringBehavior.txt */,
+				3290BD831EEA72980093E63A /* M.FailuretoComply.txt */,
+				3290BD841EEA72980093E63A /* MandatoryWithdrawal.txt */,
+				3290BD851EEA72980093E63A /* MedicalLeaves.txt */,
+				3290BD861EEA72980093E63A /* N.FireSafety.txt */,
+				3290BD871EEA72980093E63A /* Non-DiscriminationStatement.txt */,
+				3290BD881EEA72980093E63A /* O.Hazing.txt */,
+				3290BD891EEA72980093E63A /* P.Honesty.txt */,
+				3290BD8A1EEA72980093E63A /* PersonalLeaves.txt */,
+				3290BD8B1EEA72980093E63A /* ProcessforMandatoryWithdrawal.txt */,
+				3290BD8C1EEA72980093E63A /* Q.HousingandResidentialLife.txt */,
+				3290BD8D1EEA72980093E63A /* R.CollegeIssuedIdentificationCards.txt */,
+				3290BD8E1EEA72980093E63A /* ReturnfromaMandatoryWithdrawal.txt */,
+				3290BD8F1EEA72980093E63A /* S.MotorVehicles.txt */,
+				3290BD901EEA72980093E63A /* Section1.TermsUsedintheStudentConductReviewSystem.txt */,
+				3290BD911EEA72980093E63A /* Section2.MembershipoftheStudentConductReviewBoard.txt */,
+				3290BD921EEA72980093E63A /* Section3.InitialProceduresfortheResolutionofConductMatters.txt */,
+				3290BD931EEA72980093E63A /* Section4.PowersandDutiesoftheStudentConductReviewBoard.txt */,
+				3290BD941EEA72980093E63A /* Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt */,
+				3290BD951EEA72980093E63A /* Section6.StudentConductReviewBoardProcedures.txt */,
+				3290BD961EEA72980093E63A /* StudentRightsandResponsibilities.txt */,
+				3290BD971EEA72980093E63A /* T.OrganizationsNotAffiliatedwiththeCollege.txt */,
+				3290BD981EEA72980093E63A /* TheGoodSamaritanPolicy.txt */,
+				3290BD991EEA72980093E63A /* TheStudentConductProcess.txt */,
+				3290BD9A1EEA72980093E63A /* U.UnauthorizedAccess.txt */,
+				3290BD9B1EEA72980093E63A /* V.SeniorWeek.txt */,
+				3290BD9C1EEA72980093E63A /* W.SexualandGender-BasedDiscrimination.txt */,
+				3290BD9D1EEA72980093E63A /* WithdrawalfromtheCollege.txt */,
+				3290BD9E1EEA72980093E63A /* WithdrawingfromtheCollege.txt */,
+				3290BD9F1EEA72980093E63A /* X.Smoking.txt */,
+				3290BDA01EEA72980093E63A /* Y.SocialEvents.txt */,
+				3290BDA11EEA72980093E63A /* Z.StudentEngagement.txt */,
 			);
 			name = "Handbook Text Files";
 			sourceTree = "<group>";
@@ -763,79 +756,79 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				32736B2F1DC0A5A000A6F24A /* Section6.StudentConductReviewBoardProcedures.txt in Resources */,
-				32736B151DC0A5A000A6F24A /* G.Conduct.txt in Resources */,
-				32F7A19F1D2AEEC70066A5BF /* menubar.png in Resources */,
-				32015BAD1D39BDEA0022513E /* refresh2.png in Resources */,
-				32736B311DC0A5A000A6F24A /* T.OrganizationsNotAffiliatedwiththeCollege.txt in Resources */,
-				32736B2E1DC0A5A000A6F24A /* Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt in Resources */,
-				32736B3A1DC0A5A000A6F24A /* Y.SocialEvents.txt in Resources */,
-				32736B171DC0A5A000A6F24A /* I.DemonstrationsandProtests.txt in Resources */,
-				32736B301DC0A5A000A6F24A /* StudentRightsandResponsibilities.txt in Resources */,
-				32736B281DC0A5A000A6F24A /* ReturnfromaMandatoryWithdrawal.txt in Resources */,
-				32736B141DC0A5A000A6F24A /* FinancialArrangements.txt in Resources */,
-				32736B341DC0A5A000A6F24A /* U.UnauthorizedAccess.txt in Resources */,
-				32736B1E1DC0A5A000A6F24A /* MandatoryWithdrawal.txt in Resources */,
-				32736B331DC0A5A000A6F24A /* TheStudentConductProcess.txt in Resources */,
-				32736B411DC0B0A300A6F24A /* A.AlcoholicBeverages.txt in Resources */,
-				32736B121DC0A5A000A6F24A /* E.BrownFamilyEnvironmentalCenter.txt in Resources */,
-				32736B231DC0A5A000A6F24A /* P.Honesty.txt in Resources */,
-				32736B221DC0A5A000A6F24A /* O.Hazing.txt in Resources */,
-				32736B091DC0A5A000A6F24A /* AA.StudentEnterprises.txt in Resources */,
-				32736B391DC0A5A000A6F24A /* X.Smoking.txt in Resources */,
-				32D437C81E40050E00227E93 /* lightK.jpg in Resources */,
-				32736B3B1DC0A5A000A6F24A /* Z.StudentEngagement.txt in Resources */,
-				32736B1C1DC0A5A000A6F24A /* L.EndangeringBehavior.txt in Resources */,
-				3279C0771D2A509800373DE3 /* maptrash.png in Resources */,
-				32736B261DC0A5A000A6F24A /* Q.HousingandResidentialLife.txt in Resources */,
-				32736B181DC0A5A000A6F24A /* InformalHearing.txt in Resources */,
-				32736B161DC0A5A000A6F24A /* H.Damage.txt in Resources */,
-				32736B0A1DC0A5A000A6F24A /* Applicability.txt in Resources */,
-				32736B241DC0A5A000A6F24A /* PersonalLeaves.txt in Resources */,
-				3279C0751D2A44AA00373DE3 /* pin2.png in Resources */,
-				32736B251DC0A5A000A6F24A /* ProcessforMandatoryWithdrawal.txt in Resources */,
-				32736B0B1DC0A5A000A6F24A /* B.Non-SexualAssault.txt in Resources */,
-				32736B1A1DC0A5A000A6F24A /* J.DiscriminatoryHarassment.txt in Resources */,
+				3290BDA71EEA72980093E63A /* C.Banners,flyers,andposters.txt in Resources */,
+				3290BDCE1EEA72980093E63A /* U.UnauthorizedAccess.txt in Resources */,
+				3290BD661EEA72340093E63A /* new.png in Resources */,
+				3290BDC71EEA72980093E63A /* Section4.PowersandDutiesoftheStudentConductReviewBoard.txt in Resources */,
+				3290BD671EEA72340093E63A /* pin2.png in Resources */,
+				3290BDB71EEA72980093E63A /* M.FailuretoComply.txt in Resources */,
+				3290BDC01EEA72980093E63A /* Q.HousingandResidentialLife.txt in Resources */,
+				3290BD681EEA72340093E63A /* pin3.png in Resources */,
+				3290BDC11EEA72980093E63A /* R.CollegeIssuedIdentificationCards.txt in Resources */,
+				3290BD691EEA72340093E63A /* refresh2.png in Resources */,
 				32EFAE441CF9597700845CEA /* LaunchScreen.storyboard in Resources */,
-				327BFAB31E40FF7900CF07AE /* Untitled-3.png in Resources */,
-				32736B351DC0A5A000A6F24A /* V.SeniorWeek.txt in Resources */,
-				32736B321DC0A5A000A6F24A /* TheGoodSamaritanPolicy.txt in Resources */,
-				32736B0E1DC0A5A000A6F24A /* CC.Weapons.txt in Resources */,
-				32736B131DC0A5A000A6F24A /* F.Computers,EmailandSocialMedia.txt in Resources */,
-				32736B2A1DC0A5A000A6F24A /* Section1.TermsUsedintheStudentConductReviewSystem.txt in Resources */,
+				3290BDAB1EEA72980093E63A /* DD.Weapons.txt in Resources */,
+				3290BD6C1EEA72340093E63A /* Untitled-3.png in Resources */,
+				3290BD6D1EEA72340093E63A /* lightK.jpg in Resources */,
+				3290BDCB1EEA72980093E63A /* T.OrganizationsNotAffiliatedwiththeCollege.txt in Resources */,
+				3290BD641EEA72340093E63A /* maptrash.png in Resources */,
+				3290BDA81EEA72980093E63A /* CC.Weapons.txt in Resources */,
+				3290BDAE1EEA72980093E63A /* FinancialArrangements.txt in Resources */,
+				3290BD651EEA72340093E63A /* menubar.png in Resources */,
+				3290BDAA1EEA72980093E63A /* D.BicycleRegistrationandRegulations.txt in Resources */,
+				3290BDD31EEA72980093E63A /* X.Smoking.txt in Resources */,
+				3290BDA61EEA72980093E63A /* BB.Theft.txt in Resources */,
+				3290BDCA1EEA72980093E63A /* StudentRightsandResponsibilities.txt in Resources */,
+				3290BDB11EEA72980093E63A /* I.DemonstrationsandProtests.txt in Resources */,
+				3290BDA21EEA72980093E63A /* A.AlcoholicBeverages.txt in Resources */,
+				3290BDBD1EEA72980093E63A /* P.Honesty.txt in Resources */,
 				32EFAE411CF9597700845CEA /* Assets.xcassets in Resources */,
-				32736B201DC0A5A000A6F24A /* N.FireSafety.txt in Resources */,
-				32736B361DC0A5A000A6F24A /* W.SexualandGender-BasedDiscrimination.txt in Resources */,
-				32736B271DC0A5A000A6F24A /* R.CollegeIssuedIdentificationCards.txt in Resources */,
-				323498401E44EB8A000148DF /* userRecordID.txt in Resources */,
-				32736B0F1DC0A5A000A6F24A /* ChangestoStudentRegulations.txt in Resources */,
-				327BFAB11E40745400CF07AE /* new.png in Resources */,
-				32736B1D1DC0A5A000A6F24A /* M.FailuretoComply.txt in Resources */,
+				3290BDC31EEA72980093E63A /* S.MotorVehicles.txt in Resources */,
+				3290BDC91EEA72980093E63A /* Section6.StudentConductReviewBoardProcedures.txt in Resources */,
+				3290BD621EEA72340093E63A /* mapcenter2.png in Resources */,
+				3290BDC51EEA72980093E63A /* Section2.MembershipoftheStudentConductReviewBoard.txt in Resources */,
+				3290BDBB1EEA72980093E63A /* Non-DiscriminationStatement.txt in Resources */,
+				3290BDD51EEA72980093E63A /* Z.StudentEngagement.txt in Resources */,
+				3290BDB51EEA72980093E63A /* K.Drugs.txt in Resources */,
+				3290BDBA1EEA72980093E63A /* N.FireSafety.txt in Resources */,
+				3290BDAC1EEA72980093E63A /* E.BrownFamilyEnvironmentalCenter.txt in Resources */,
+				3290BDCD1EEA72980093E63A /* TheStudentConductProcess.txt in Resources */,
+				3290BDCC1EEA72980093E63A /* TheGoodSamaritanPolicy.txt in Resources */,
+				3290BDB81EEA72980093E63A /* MandatoryWithdrawal.txt in Resources */,
+				3290BD5F1EEA72340093E63A /* backButton.png in Resources */,
+				3290BDAD1EEA72980093E63A /* F.Computers,EmailandSocialMedia.txt in Resources */,
+				3290BDAF1EEA72980093E63A /* G.Conduct.txt in Resources */,
+				3290BDBE1EEA72980093E63A /* PersonalLeaves.txt in Resources */,
+				3290BDC81EEA72980093E63A /* Section5.RightsoftheComplainantandRightsoftheRespondentintheConductProcess.txt in Resources */,
+				3290BE301EEA757D0093E63A /* userRecordID.txt in Resources */,
+				3290BDD01EEA72980093E63A /* W.SexualandGender-BasedDiscrimination.txt in Resources */,
 				322C3BD71D0258EF004CCD11 /* Main.storyboard in Resources */,
-				32736B451DC0B67E00A6F24A /* circle2.png in Resources */,
-				32736B2B1DC0A5A000A6F24A /* Section2.MembershipoftheStudentConductReviewBoard.txt in Resources */,
-				32736B371DC0A5A000A6F24A /* WithdrawalfromtheCollege.txt in Resources */,
-				32F7A1A21D2AFBBA0066A5BF /* backButton.png in Resources */,
+				3290BDB21EEA72980093E63A /* InformalHearing.txt in Resources */,
 				32015BB31D3AD0BE0022513E /* Icons.xcassets in Resources */,
-				32736B1F1DC0A5A000A6F24A /* MedicalLeaves.txt in Resources */,
-				32736B2C1DC0A5A000A6F24A /* Section3.InitialProceduresfortheResolutionofConductMatters.txt in Resources */,
-				32736B191DC0A5A000A6F24A /* Introduction.txt in Resources */,
-				32736B291DC0A5A000A6F24A /* S.MotorVehicles.txt in Resources */,
-				32736B211DC0A5A000A6F24A /* Non-DiscriminationStatement.txt in Resources */,
-				32736B0D1DC0A5A000A6F24A /* C.Banners,flyers,andposters.txt in Resources */,
-				32736B381DC0A5A000A6F24A /* WithdrawingfromtheCollege.txt in Resources */,
-				32736B0C1DC0A5A000A6F24A /* BB.Theft.txt in Resources */,
-				32F7A1A41D2B256D0066A5BF /* pin3.png in Resources */,
-				32736B101DC0A5A000A6F24A /* D.BicycleRegistrationandRegulations.txt in Resources */,
-				32736B2D1DC0A5A000A6F24A /* Section4.PowersandDutiesoftheStudentConductReviewBoard.txt in Resources */,
+				3290BDB41EEA72980093E63A /* J.DiscriminatoryHarassment.txt in Resources */,
+				3290BDBF1EEA72980093E63A /* ProcessforMandatoryWithdrawal.txt in Resources */,
+				3290BDB31EEA72980093E63A /* Introduction.txt in Resources */,
+				3290BD6B1EEA72340093E63A /* shield2colors.png in Resources */,
+				3290BDC41EEA72980093E63A /* Section1.TermsUsedintheStudentConductReviewSystem.txt in Resources */,
+				3290BDB61EEA72980093E63A /* L.EndangeringBehavior.txt in Resources */,
+				3290BDD21EEA72980093E63A /* WithdrawingfromtheCollege.txt in Resources */,
+				3290BDA51EEA72980093E63A /* B.Non-SexualAssault.txt in Resources */,
+				3290BD611EEA72340093E63A /* iconbig.png in Resources */,
+				3290BDC21EEA72980093E63A /* ReturnfromaMandatoryWithdrawal.txt in Resources */,
+				3290BDC61EEA72980093E63A /* Section3.InitialProceduresfortheResolutionofConductMatters.txt in Resources */,
+				3290BDCF1EEA72980093E63A /* V.SeniorWeek.txt in Resources */,
+				3290BD631EEA72340093E63A /* mapcompass.png in Resources */,
+				3290BDA31EEA72980093E63A /* AA.StudentEnterprises.txt in Resources */,
+				3290BDBC1EEA72980093E63A /* O.Hazing.txt in Resources */,
+				3290BDD41EEA72980093E63A /* Y.SocialEvents.txt in Resources */,
+				3290BD601EEA72340093E63A /* circle2.png in Resources */,
+				3290BDB01EEA72980093E63A /* H.Damage.txt in Resources */,
+				3290BD6A1EEA72340093E63A /* search1.png in Resources */,
+				3290BDB91EEA72980093E63A /* MedicalLeaves.txt in Resources */,
+				3290BDA41EEA72980093E63A /* Applicability.txt in Resources */,
+				3290BDA91EEA72980093E63A /* ChangestoStudentRegulations.txt in Resources */,
+				3290BDD11EEA72980093E63A /* WithdrawalfromtheCollege.txt in Resources */,
 				32D437CA1E40089B00227E93 /* Settings.bundle in Resources */,
-				3279C0791D2A603A00373DE3 /* mapcompass.png in Resources */,
-				32736B1B1DC0A5A000A6F24A /* K.Drugs.txt in Resources */,
-				32EDBCB11D32ED7B004D94B5 /* shield2colors.png in Resources */,
-				32736B111DC0A5A000A6F24A /* DD.Weapons.txt in Resources */,
-				32EDBCBB1D336BA4004D94B5 /* search1.png in Resources */,
-				32015BB51D3AE7F20022513E /* iconbig.png in Resources */,
-				3279C06D1D2A3D1B00373DE3 /* mapcenter2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -998,40 +991,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				323498321E432E6F000148DF /* commentsViewController.m in Sources */,
-				3234982F1E4322B0000148DF /* wallPostTableViewCell.m in Sources */,
-				32EDBCC41D34ACC1004D94B5 /* searchViewController.m in Sources */,
-				32EDBCAB1D321121004D94B5 /* eventDescriptionViewController.m in Sources */,
-				32D437CD1E4008D800227E93 /* localSettings.m in Sources */,
-				320501021D172E3600949795 /* buildingAnnotation.m in Sources */,
-				3203DB761D2F5CA100CFBAAE /* sportSelectionViewController.m in Sources */,
-				32EFAE861CFBFE6200845CEA /* sectionViewController.m in Sources */,
-				32EFAE8C1CFD2FA400845CEA /* navInfoViewController.m in Sources */,
-				328BDD961E3FE81E00A682B0 /* assynchronousImagePlacer.m in Sources */,
-				3234983B1E4492C5000148DF /* segmentedLabel.m in Sources */,
-				32976D211D2DC4A900696E6C /* athleticsViewController.m in Sources */,
-				32D437D41E401E7000227E93 /* postManager.m in Sources */,
-				32EDBCBE1D347F7E004D94B5 /* buildingSelectionViewController.m in Sources */,
-				32EFAE3C1CF9597700845CEA /* ViewController.m in Sources */,
-				329EF20E1D15CCDC0073CC3A /* MapViewController.m in Sources */,
-				32976D601D2DF1E900696E6C /* gameTableViewCell.m in Sources */,
-				32EFAE391CF9597700845CEA /* AppDelegate.m in Sources */,
-				32D437D01E401AD400227E93 /* wallViewController.m in Sources */,
-				323498431E44EBEF000148DF /* recordIDManager.m in Sources */,
-				328A8F331D30937900224047 /* eventsViewController.m in Sources */,
+				3290BE2E1EEA757D0093E63A /* localSettings.m in Sources */,
+				32CB41E81EEA78FE00209BE9 /* composeViewController.m in Sources */,
+				3290BE1B1EEA74F00093E63A /* buildingAnnotation.m in Sources */,
+				32CB41ED1EEA78FE00209BE9 /* wallPostTableViewCell.m in Sources */,
+				32CB41EE1EEA78FE00209BE9 /* wallViewController.m in Sources */,
+				32CB41E91EEA78FE00209BE9 /* postManager.m in Sources */,
+				3290BE041EEA740D0093E63A /* gameTableViewCell.m in Sources */,
+				3290BE121EEA74760093E63A /* navInfoViewController.m in Sources */,
+				3290BE1C1EEA74F00093E63A /* buildingSelectionViewController.m in Sources */,
+				3290BE141EEA74760093E63A /* sectionViewController.m in Sources */,
+				3290BE051EEA740D0093E63A /* sportSelectionViewController.m in Sources */,
+				3290BE2C1EEA757D0093E63A /* commonUseFunctions.m in Sources */,
+				3290BDF81EEA73B20093E63A /* eventDescriptionViewController.m in Sources */,
+				32CB41EB1EEA78FE00209BE9 /* wallPost.m in Sources */,
+				3290BDFC1EEA73B20093E63A /* LTNavigationController.m in Sources */,
+				3290BE1D1EEA74F00093E63A /* MapViewController.m in Sources */,
+				3290BDFB1EEA73B20093E63A /* eventTableViewCell.m in Sources */,
+				3290BE2D1EEA757D0093E63A /* FoundationsExtensions.m in Sources */,
 				32EFAE361CF9597700845CEA /* main.m in Sources */,
-				32D437D71E401F1300227E93 /* wallPost.m in Sources */,
-				3215B65B1D385ECE00CDC9EA /* eventSettingsViewController.m in Sources */,
-				32EFAE881CFD1BE500845CEA /* FoundationsExtensions.m in Sources */,
-				323498351E43D095000148DF /* wallPostComment.m in Sources */,
-				3290A6D11E4928B800042C26 /* dynamicStackView.m in Sources */,
-				323498381E4451FB000148DF /* commonUseFunctions.m in Sources */,
-				328A8F371D30B19D00224047 /* eventTableViewCell.m in Sources */,
-				32EFAE6A1CF9716300845CEA /* Handbook.m in Sources */,
-				32EFAE721CF9CC7A00845CEA /* handBookViewController.m in Sources */,
-				328BDD991E3FE97900A682B0 /* CLFURLRequestDelegate.m in Sources */,
-				327BFAAD1E40492B00CF07AE /* composeViewController.m in Sources */,
-				32A6E21B1ED5F73400AA85DD /* LTNavigationController.m in Sources */,
+				3290BE101EEA74760093E63A /* Handbook.m in Sources */,
+				3290BE2F1EEA757D0093E63A /* recordIDManager.m in Sources */,
+				32CB41E71EEA78FE00209BE9 /* commentsViewController.m in Sources */,
+				3290BDF91EEA73B20093E63A /* eventSettingsViewController.m in Sources */,
+				3290BE031EEA740D0093E63A /* athleticsViewController.m in Sources */,
+				3290BE311EEA757D0093E63A /* ViewController.m in Sources */,
+				32CB41EC1EEA78FE00209BE9 /* wallPostComment.m in Sources */,
+				3290BE2B1EEA757D0093E63A /* AppDelegate.m in Sources */,
+				3290BE111EEA74760093E63A /* handBookViewController.m in Sources */,
+				3290BE131EEA74760093E63A /* searchViewController.m in Sources */,
+				32CB41EA1EEA78FE00209BE9 /* segmentedLabel.m in Sources */,
+				3290BDFA1EEA73B20093E63A /* eventsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
